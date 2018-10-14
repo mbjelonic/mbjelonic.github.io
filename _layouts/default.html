@@ -1,25 +1,12 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Marko Bjelonic | Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain.</title>
-<meta name="generator" content="Jekyll v3.8.4" />
-<meta property="og:title" content="Marko Bjelonic" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain." />
-<meta property="og:description" content="Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Marko Bjelonic" />
-<script type="application/ld+json">
-{"name":"Marko Bjelonic","description":"Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain.","@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/headshot.jpg"}},"headline":"Marko Bjelonic","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -27,19 +14,29 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="http://localhost:4000/">Marko Bjelonic</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        
-          <img src="/images/headshot.jpg" alt="Logo" />
-        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
-        <p>Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain.</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 
-        
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
 
-        
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
 
         <a target="_blank" href="http://www.ethz.ch" title="ETH Zurich">
         <img src="images/ethzurich.png" style="width: 70%">
@@ -83,22 +80,26 @@
       </header>
       <section>
 
-      <h2 id="welcome-to-my-website">Welcome to my website!</h2>
-
-<p>I am robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain. <br /></p>
-
-<div class="container">
-  <iframe src="https://www.youtube.com/embed/nGLUsyx9Vvc" frameborder="0" allowfullscreen="" class="video"></iframe>
-</div>
-
+      {{ content }}
 
       </section>
       <footer>
-        
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
         <p><small>© 2018 Marko Bjelonic &mdash; Built with <a href="https://jekyllrb.com/">Jekyll</a> <!-- &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
       </footer>
     </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
   </body>
 </html>
