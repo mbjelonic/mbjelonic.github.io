@@ -13,9 +13,9 @@
     <![endif]-->
   </head>
 
-
-
   <body>
+    {%- include header.html -%}
+
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -82,12 +82,6 @@
           <a target="_blank" href="https://www.facebook.com/marko.bjelonic" title="Facebook">Facebook</a>
         </p>
       </header>
-
-      <section>
-
-      {%- include header.html -%}
-
-      </section>
 
       <section>
 
