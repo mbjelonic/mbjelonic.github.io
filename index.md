@@ -2,12 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: home
 ---
 
-## Welcome to my website!
+# Welcome to my website!
 
-I am robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain. <br/>
+I am robotics researcher at the Robotic System Lab of ETH Zurich focusing on motion control and planning for wheeled-legged robots in rough terrain. <br/>
 
 <div class="container">
   <iframe src="https://www.youtube.com/embed/nGLUsyx9Vvc"

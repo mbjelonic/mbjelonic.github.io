@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,6 +12,9 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
+
+
+
   <body>
     <div class="wrapper">
       <header>
@@ -39,13 +43,13 @@
         {% endif %}
 
         <a target="_blank" href="http://www.ethz.ch" title="ETH Zurich">
-        <img src="images/ethzurich.png" style="width: 70%">
+        <img src="/images/ethzurich.png" style="width: 70%">
 
         </a>
         </br>
 
         <a target="_blank" href="http://www.rsl.ethz.ch" title="Robotic Systems Lab">
-          <img src="images/roboticsystemslab.png" style="width: 60%">
+          <img src="/images/roboticsystemslab.png" style="width: 60%">
         </a>
 
         </a>
@@ -78,6 +82,13 @@
           <a target="_blank" href="https://www.facebook.com/marko.bjelonic" title="Facebook">Facebook</a>
         </p>
       </header>
+
+      <section>
+
+      {%- include header.html -%}
+
+      </section>
+
       <section>
 
       {{ content }}
