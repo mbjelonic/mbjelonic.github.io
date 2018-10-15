@@ -26,3 +26,436 @@
   url_video = {https://youtu.be/Rx4ewkxAItI},
   url_link  = {https://link.springer.com/chapter/10.1007/978-3-319-50115-4_9},
 }
+
+@inproceedings{bjelonic2016proprioceptive,
+  author    = {Bjelonic, Marko and
+               Kottege, Navinda and
+               Beckerle, Philipp},
+  title     = {Proprioceptive control of an over-actuated hexapod robot in
+               unstructured terrain},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and
+               Systems (IROS)},
+  year      = {2016},
+  pages     = {2042--2049},
+  doi       = {10.1109/IROS.2016.7759321},
+  abstract  = {Legged robots such as hexapods have the potential to traverse
+              unstructured terrain. This paper introduces a novel hexapod robot
+              (Weaver) using a hierarchical controller, with the ability to
+              efficiently traverse uneven and inclined terrain. The robot has
+              five joints per leg and 30 degrees of freedom overall. The two
+              redundant joints improve the locomotion of the robot by
+              controlling the body pose and the leg orientation with respect to
+              the ground. The impedance controller in Cartesian space reacts to
+              unstructured terrain and thus achieves self-stabilizing behavior
+              without prior profiling of the terrain through exteroceptive
+              sensing. Instead of adding force sensors, the force at the foot
+              tip is calculated by processing the current signals of the
+              actuators. This work experimentally evaluates Weaver with the
+              proposed controller and demonstrates that it can effectively
+              traverse challenging terrains and high gradient slopes, reduce
+              angular movements of the body by more than 55% and reduce the cost
+              of transport (up to 50% on uneven terrain and by 85% on a slope
+              with 20 °). The controller also enables Weaver to walk up
+              inclines of up to 30 °, and remain statically stable on inclines
+              up to 50 °. Furthermore, we present a new metric for legged robot
+              stability performance along with a method for proprioceptive
+              terrain characterization.},
+  keywords  = {legged locomotion, impedance control},
+  url_pdf   = {files/2016_iros_bjelonic.pdf},
+  url_video = {https://youtu.be/OxOMmovPpdI},
+  url_link  = {https://ieeexplore.ieee.org/document/7759321},
+}
+
+@inproceedings{elfes2017multilegged,
+  author    = {Elfes, Alberto and
+               Steindl, Ryan and
+               Talbot, Fletcher and
+               Kendoul, Farid and
+               Sikka, Pavan and
+               Lowe, Tom and
+               Kottege, Navinda and
+               Bjelonic, Marko and
+               Dungavell, Ross and
+               Bandyopadhyay, Tirthankar and
+               others},
+  title     = {The Multilegged Autonomous eXplorer (MAX)},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2017},
+  pages     = {1050--1057},
+  doi       = {10.1109/ICRA.2017.7989126},
+  abstract  = {To address the goal of locomotion in very complex and difficult
+              terrains, the authors are developing a new class of Ultralight
+              Legged Robots. This paper presents the Multilegged Autonomous
+              eXplorer (MAX), an ultralight, six-legged robot for traversal and
+              exploration of challenging indoor and outdoor environments. The
+              design of MAX emphasizes a low mass/size ratio, high locomotion
+              efficiency, and high payload capability compared to total system
+              mass. MAX is 2.25 m tall at full height and has a mass of
+              approximately 60 kg, which makes it 5 to 20 times lighter than
+              robots of comparable size. MAX is a research vehicle to explore
+              modelling and control of Ultralight Legged Robots subject to
+              flexing, oscillations and swaying; algorithms for gait planning
+              and motion planning under uncertainty; and navigation planning for
+              traversal of complex 3D terrains. This paper presents the design
+              of MAX, provides an overview of the control system developed,
+              summarizes results from indoor and outdoor tests, discusses system
+              performance and outlines the challenges to be addressed next.},
+  keywords  = {legged locomotion, actuators},
+  url_pdf   = {files/2017_icra_elfes.pdf},
+  url_video = {https://youtu.be/nmELJzXl_Z8},
+  url_link  = {https://ieeexplore.ieee.org/document/7989126},
+}
+
+@inproceedings{bjelonic2017autonomous,
+  author    = {Bjelonic, Marko and
+              Homberger, Timon and
+              Kottege, Navinda and
+              Borges, Paulo and
+              Chli, Margarita and
+              Beckerle, Philipp},
+  title     = {Autonomous navigation of hexapod robots with vision-based
+               controller adaptation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2017},
+  pages     = {5561--5568},
+  doi       = {10.1109/ICRA.2017.7989655},
+  abstract  = {This work introduces a novel hybrid control architecture for a
+               hexapod platform (Weaver), making it capable of autonomously
+               navigating in uneven terrain. The main contribution stems from
+               the use of vision-based exteroceptive terrain perception to adapt
+               the robot's locomotion parameters. Avoiding computationally
+               expensive path planning for the individual foot tips, the
+               adaptation controller enables the robot to reactively adapt to
+               the surface structure it is moving on. The virtual stiffness,
+               which mainly characterizes the behavior of the legs' impedance
+               controller is adapted according to visually perceived terrain
+               properties. To further improve locomotion, the frequency and
+               height of the robot's stride are similarly adapted. Furthermore,
+               novel methods for terrain characterization and a keyframe based
+               visual-inertial odometry algorithm are combined to generate a
+               spatial map of terrain characteristics. Localization via odometry
+               also allows for autonomous missions on variable terrain by
+               incorporating global navigation and terrain adaptation into one
+               control architecture. Autonomous runs on a testbed with variable
+               terrain types illustrate that adaptive stride and impedance
+               behavior decreases the cost of transport by 30 % compared to a
+               non-adaptive approach and simultaneously increases body stability
+               (up to 88 % on even terrain and by 54 % on uneven terrain).
+               Weaver is able to freely explore outdoor environments as it is
+               completely free of external tethers, as shown in the
+               experiments.},
+  keywords  = {legged locomotion, terrain perception, control adaptation},
+  url_pdf   = {files/2017_icra_bjelonic.pdf},
+  url_video = {https://youtu.be/a9l0bHHm-yY},
+  url_link  = {https://ieeexplore.ieee.org/abstract/document/7989655},
+}
+
+@article{hutter2017anymal,
+  author    = {Hutter, Marco and
+               Gehring, Christian and
+               Lauber, Andreas and
+               Gunther, F and
+               Bellicoso, Carmine D and
+               Tsounis, Vassilios and
+               Fankhauser, P{\'e}ter and
+               Diethelm, Remo and
+               Bachmann, Samuel and
+               Bl{\"o}sch, Michael and
+               Kolvenbach, Hendrik and
+               Bjelonic, Marko and
+               others},
+  title     = {ANYmal-toward legged robots for harsh environments},
+  journal   = {Advanced Robotics},
+  year      = {2017},
+  pages     = {918--931},
+  doi       = {10.1080/01691864.2017.1378591},
+  abstract  = {This paper provides a system overview about ANYmal, a quadrupedal
+               robot developed for operation in harsh environments. The 30 kg,
+               0.5 m tall robotic dog was built in a modular way for simple
+               maintenance and user-friendly handling, while focusing on high
+               mobility and dynamic motion capability. The system is tightly
+               sealed to reach IP67 standard and protected to survive falls.
+               Rotating lidar sensors in the front and back are used for
+               localization and terrain mapping and compact force sensors in the
+               feet provide accurate measurements about the contact situations.
+               The variable payload, such as a modular pan-tilt head with a
+               variety of inspection sensors, can be exchanged depending on the
+               application. Thanks to novel, compliant joint modules with
+               integrated electronics, ANYmal is precisely torque controllable
+               and very robust against impulsive loads during running or
+               jumping. In a series of experiments we demonstrate that ANYmal
+               can execute various climbing maneuvers, walking gaits, as well as
+               a dynamic trot and jump. As special feature, the joints can be
+               fully rotated to switch between X- and O-type kinematic
+               configurations. Detailed measurements unveil a low energy
+               consumption of 280 W during locomotion, which results in an
+               autonomy of more than 2 h.},
+  keywords  = {legged robot, quadruped robot, field robotics,
+               series elastic actuation, autonomous navigation},
+  url_pdf   = {files/2017_advanced_robotics_hutter.pdf},
+  url_link  = {https://doi.org/10.1080/01691864.2017.1378591},
+}
+
+@inproceedings{hutter2018towards,
+  author    = {Hutter, Marco and
+               Diethelm, Remo and
+               Bachmann, Samuel and
+               Fankhauser, Peter and
+               Gehring, Christian and
+               Tsounis, Vassilios and
+               Lauber, Andreas and
+               Guenther, Fabian and
+               Bjelonic, Marko and
+               Isler, Linus and
+               others},
+  title     = {Towards a generic solution for inspection of industrial sites},
+  booktitle = {Field and Service Robotics},
+  year      = {2018},
+  pages     = {575--589},
+  doi       = {10.3929/ethz-b-000183150},
+  abstract  = {Autonomous robotic inspection of industrial sites offers a huge
+               potential with respect to increasing human safety and operational
+               efficiency. The present paper provides an insight into the
+               approach taken by team LIO during the ARGOS Challenge. In this
+               international competition, the legged robot ANYmal was equipped
+               with a sensor head to perform visual, acoustic, and thermal
+               inspection on an oil and gas site. The robot was able to
+               autonomously navigate on the outdoor industrial facilty using
+               rotating line-LIDAR sensors for localization and terrain mapping.
+               Thanks to the superior mobility of legged robots, ANYmal can
+               omni-directionally move with statically and dynamically stable
+               gaits while overcoming large obstacles and stairs. Moreover, the
+               versatile machine can adapt its posture for inspection. The paper
+               additionally provides insight into the methods applied for visual
+               inspection of pressure gauges and concludes with some insight
+               into the general learnings from the ARGOS Challenge.},
+  keywords  = {legged robot, quadruped robot, field robotics,
+               series elastic actuation, autonomous navigation},
+  url_video = {https://youtu.be/2RQDp0Q2vSo},
+  url_link  = {https://doi.org/10.3929/ethz-b-000183150},
+}
+
+@inproceedings{fankhauser2018robust,
+  author    = {Fankhauser, P{\'e}ter and
+               Bjelonic, Marko and
+               Bellicoso, Dario and
+               Miki, Takahiro and
+               Hutter, Marco},
+  title     = {Robust Rough-Terrain Locomotion with a Quadrupedal Robot},
+  booktitle = {IEEE International Conference on Robotics and Automation
+              (ICRA)},
+  year      = {2018},
+  doi       = {10.1109/ICRA.2018.8460731},
+  abstract  = {Robots working in natural, urban, and industrial settings need to
+               be able to navigate challenging environments. In this paper, we
+               present a motion planner for the perceptive rough-terrain
+               locomotion with quadrupedal robots. The planner finds safe
+               footholds along with collision-free swing-leg motions by
+               leveraging an acquired terrain map. To this end, we present a
+               novel pose optimization approach that enables the robot to climb
+               over significant obstacles. We experimentally validate our
+               approach with the quadrupedal robot ANYmal by autonomously
+               traversing obstacles such steps, inclines, and stairs. The
+               locomotion planner re-plans the motion at every step to cope with
+               disturbances and dynamic environments. The robot has no prior
+               knowledge of the scene, and all mapping, state estimation,
+               control, and planning is performed in real-time onboard the
+               robot.},
+  keywords  = {legged locomotion, robot sensing systems, planning,
+               collision avoidance},
+  url_video = {https://youtu.be/CpzQu25iLa0},
+  url_link  = {https://ieeexplore.ieee.org/document/8460731},
+}
+
+@article{bjelonic2018weaver,
+  author    = {Bjelonic, Marko and
+               Kottege, Navinda and
+               Homberger, Timon and
+               Borges, Paulo and
+               Beckerle, Philipp and
+               Chli, Margarita},
+  title     = {Weaver: Hexapod robot for autonomous navigation on unstructured
+               terrain},
+  journal   = {Journal of Field Robotics},
+  year      = {2018},
+  pages     = {1063--1079},
+  doi       = {10.1002/rob.21795},
+  abstract  = {Legged robots are an efficient alternative for navigation in
+               challenging terrain. In this paper we describe Weaver, a
+               six‐legged robot that is designed to perform autonomous
+               navigation in unstructured terrain. It uses stereo vision and
+               proprioceptive sensing based terrain perception for adaptive
+               control while using visual‐inertial odometry for autonomous
+               waypoint‐based navigation. Terrain perception generates a minimal
+               representation of the traversed environment in terms of roughness
+               and step height. This reduces the complexity of the terrain
+               model significantly, enabling the robot to feed back information
+               about the environment into its controller. Furthermore, we
+               combine exteroceptive and proprioceptive sensing to enhance the
+               terrain perception capabilities, especially in situations in
+               which the stereo camera is not able to generate an accurate
+               representation of the environment. The adaptation approach
+               described also exploits the unique properties of legged robots
+               by adapting the virtual stiffness, stride frequency, and stride
+               height. Weaver's unique leg design with five joints per leg
+               improves locomotion on high gradient slopes, and this novel
+               configuration is further analyzed. Using these approaches, we
+               present an experimental evaluation of this fully self‐contained
+               hexapod performing autonomous navigation on a multiterrain
+               testbed and in outdoor terrain.},
+  keywords  = {legged robot, hexapedal robot, rough terrain, terain perception,
+               control adaptation},
+  url_pdf   = {files/2018_jfr_bjelonic.pdf},
+  url_video = {https://youtu.be/eLMUiX96En0},
+  url_link  = {https://doi.org/10.1002/rob.21795},
+}
+
+@inproceedings{bjelonic2018skating,
+  author    = {Bjelonic, Marko and
+               Bellicoso, C Dario and
+               Tiryaki, M Efe and
+               Hutter, Marco},
+  title     = {Skating with a force controlled quadrupedal robot},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and
+               Systems (IROS)},
+  year      = {2018},
+  abstract  = {Traditional legged robots are capable of traversing challenging
+               terrain, but lack of energy efficiency when compared to wheeled
+               systems operating on flat environments. The combination of both
+               locomotion domains overcomes the trade-off between mobility and
+               efficiency. Therefore, this paper presents a novel motion planner
+               and controller which together enable a legged robot equipped with
+               skates to perform skating maneuvers. These are achieved by an
+               appropriate combination of planned reaction forces and gliding
+               motions. Our novel motion controller formulates a Virtual Model
+               Controller and an optimal contact force distribution which takes
+               into account the nonholonomic constraints introduced by the
+               skates. This approach has been tested on the torque-controllable
+               robot ANYmal equipped with passive wheels and ice skates as
+               end-effectors. We conducted experiments on flat and inclined
+               terrain, whereby we show that skating motions reduces the cost
+               of transport by up to 80\,\% with respect to traditional walking
+               gaits.},
+  keywords  = {legged locomotion, quadrupedal robot, skating, motion control,
+               force control},
+  url_pdf   = {files/2018_iros_bjelonic.pdf},
+  url_video = {https://youtu.be/fJfAWiylpxw},
+}
+
+@inproceedings{stolz2018adaptive,
+  author    = {Stolz, Boris and
+               Br{\"o}dermann, Tim and
+               Castiello, Enea and
+               Engelberger, Gokula and
+               Erne, Daniel and
+               Gasser, Jan and
+               Hayoz, Eric and
+               M{\"u}ller, Stephan and
+               M{\"u}hlebach, Lorin and
+               L{\"o}w, Tobias and
+               Scheuer, Dominique and
+               Vendeventer, Luca and
+               Bjelonic, Marko and
+               others},
+  title     = {An adaptive landing gear for extending the operational range of
+               helicopters},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and
+               Systems (IROS)},
+  year      = {2018},
+  abstract  = {Conventional skid or wheel based helicopter landing gears
+               severely limit off-field landing possibilities, which are crucial
+               when operating in scenarios such as mountain rescue. In this
+               context, slopes beyond 8 ◦ and small obstacles can already pose a
+               substantial hazard. An adaptive landing gear is proposed to
+               overcome these limitations. It consists of four legs with one
+               degree of freedom each. The total weight was minimized to
+               demonstrate economic practicability. This was achieved by an
+               innovative actuation, composed of a parallel arrangement of motor
+               and brake, which relieves the motor from large impact loads
+               during hard landings. The loads are alleviated by a spring-damper
+               system acting in series to the actuation. Each leg is
+               individually force controlled for optimal load distribution on
+               compliant ground and to avoid tipping. The operation of the legs
+               is fully autonomous during the landing phase. A prototype was
+               designed and successfully tested on an unmanned helicopter with a
+               maximum take-off weight of 78 kg. Finally, the implementation of
+               the landing gear concept on aircraft of various scales was
+               discussed.},
+  keywords  = {legged locomotion, quadrupedal robot, skating, motion control,
+               force control},
+  url_pdf   = {files/2018_iros_stolz.pdf},
+  url_video = {https://youtu.be/JtoOWS18D3k},
+}
+
+@article{bjelonic2018keep,
+  author    = {Bjelonic, Marko and
+               Bellicoso, C Dario and
+               de Viragh, Yvain and
+               Sako, Dhionis and
+               Tresoldi, F Dante and
+               Jenelten, Fabian and
+               Hutter, Marco},
+  title     = {Keep Rollin'-Whole-Body Motion Control and Planning for Wheeled
+               Quadrupedal Robots},
+  journal   = {submitted to IEEE Robotics and Automation Letters},
+  year      = {2019},
+  doi       = {arXiv:1809.03557},
+  abstract  = {In this paper, we show dynamic locomotion strategies for wheeled
+               quadrupedal robots which combine the advantages of walking and
+               driving. The developed optimization framework tightly integrates
+               the additional degrees of freedom introduced by the wheels. Our
+               approach relies on a Zero-Moment Point based motion optimization
+               which continuously updates reference trajectories. The reference
+               motions are tracked by a hierarchical whole-body controller which
+               optimizes the generalized accelerations and contact forces by
+               solving a sequence of prioritized tasks including the
+               nonholonomic rolling constraints. Our approach has been tested on
+               the torque-controllable robot ANYmal equipped with non-steerable,
+               torque-controlled wheels. We conducted experiments on flat,
+               inclined and rough terrain, whereby we show that integrating the
+               wheels into the motion control and planning framework results in
+               intuitive motion trajectories, which enable more robust and
+               dynamic locomotion compared to other wheeled-legged robots.},
+  keywords  = {legged robot, wheeled robot, motion planning, motion control,
+               optimization},
+  url_pdf   = {files/2019_ral_bjelonic.pdf},
+  url_video = {https://youtu.be/nGLUsyx9Vvc},
+  url_link  = {https://arxiv.org/abs/1809.03557},
+}
+
+@article{bellicoso2018advances,
+  author    = {Bellicoso, C Dario and
+               Bjelonic, Marko and
+               Wellhausen, Lorenz and
+               Sako, Dhionis and
+               Holtmann, Kai and
+               Guenther, Fabian and
+               Tranzatto, Marco and
+               Fankhauser, P{\'e}ter and
+               Hutter, Marco},
+  title     = {Advances in Real-World Applications for Legged Robots},
+  journal   = {Journal of Field Robotics},
+  year      = {2018},
+  abstract  = {This paper provides insight into the application of the
+               quadrupedal robot ANYmal in outdoor missions of industrial
+               inspection (ARGOS Challenge) and search and rescue (European
+               Robotics League (ERL)  Emergency Robots). In both competitions,
+               the legged robot had to autonomously and semi-autonomously
+               navigate in real-world scenarios to complete high-level tasks
+               such as inspection and payload delivery. In the ARGOS
+               competition, ANYmal used \edited{a rotating} LiDAR sensor to
+               localize on the industrial site and map the terrain and obstacles
+               around the robot. In the ERL competition, additional Real-Time
+               Kinematic (RTK)-Global Positioning System (GPS) was used to
+               co-localize the legged robot with respect to a Micro Aerial
+               Vehicle (MAV) that creates maps from the aerial view. The high
+               mobility of legged robots allows overcoming large obstacles, e.g.
+               steps and stairs, with statically and dynamically stable gaits.
+               Moreover, the versatile machine can adapt its posture for
+               inspection and payload delivery. The paper concludes with insight
+               into the general learnings from the ARGOS and ERL challenges.},
+  keywords  = {legged robot, quadrupedal robot, localization, mapping,
+               challenge},
+  url_pdf   = {files/2018_jfr_bellicoso.pdf},
+  url_video = {https://youtu.be/qrJlMze_xhQ},
+}
