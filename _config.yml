@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marko Bjelonic
-logo: images/headshot.jpg
+logo: images/me_and_anymal.jpg
 email: markob@ethz.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Marko Bjelonic is a robotics researcher focusing on motion control and planning for wheeled-legged robots in rough terrain.
