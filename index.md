@@ -7,7 +7,7 @@ layout: home
 
 # Welcome to my website!
 
-I am robotics researcher at the [Robotic System Lab of ETH Zurich](http://www.rsl.ethz.ch/) focusing on motion control and planning for wheeled-legged robots in rough terrain. <br/>
+I am a robotics researcher at the [Robotic System Lab of ETH Zurich](http://www.rsl.ethz.ch/) focusing on motion control and planning for wheeled-legged robots in rough terrain. <br/>
 
 <div class="container">
   <iframe src="https://www.youtube.com/embed/nGLUsyx9Vvc"
