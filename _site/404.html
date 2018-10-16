@@ -41,12 +41,25 @@
 </div>
 
 <script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
 function myFunction() {
     var x = document.getElementById("myTopnav");
     if (x.className === "topnav") {
         x.className += " responsive";
     } else {
         x.className = "topnav";
+    }
+    // Get the offset position of the navbar
+    var sticky = x.offsetTop;
+    if (window.pageYOffset >= sticky) {
+        x.classList.add("sticky")
+    } else {
+        x.classList.remove("sticky");
     }
 }
 </script>
