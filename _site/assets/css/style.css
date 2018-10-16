@@ -485,6 +485,10 @@ footer {
   background: #ddd;
   color: black; }
 
+/* Hide the link that should open and close the topnav on small screens */
+.navbar .icon {
+  display: none; }
+
 /* Main content */
 .main {
   margin-top: 30px;
