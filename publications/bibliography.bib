@@ -147,7 +147,7 @@
   keywords  = {legged locomotion, terrain perception, control adaptation},
   url_pdf   = {files/2017_icra_bjelonic.pdf},
   url_video = {https://youtu.be/a9l0bHHm-yY},
-  url_link  = {https://ieeexplore.ieee.org/abstract/document/7989655},
+  url_link  = {https://ieeexplore.ieee.org/document/7989655},
 }
 
 @article{hutter2017anymal,
@@ -319,6 +319,8 @@
   booktitle = {IEEE/RSJ International Conference on Intelligent Robots and
                Systems (IROS)},
   year      = {2018},
+  pages     = {7555--7561},
+  doi       = {10.1109/IROS.2018.8594504},
   abstract  = {Traditional legged robots are capable of traversing challenging
                terrain, but lack of energy efficiency when compared to wheeled
                systems operating on flat environments. The combination of both
@@ -340,6 +342,7 @@
                force control},
   url_pdf   = {files/2018_iros_bjelonic.pdf},
   url_video = {https://youtu.be/fJfAWiylpxw},
+  url_link  = {https://ieeexplore.ieee.org/document/8594504}
 }
 
 @inproceedings{stolz2018adaptive,
@@ -362,6 +365,8 @@
   booktitle = {IEEE/RSJ International Conference on Intelligent Robots and
                Systems (IROS)},
   year      = {2018},
+  pages     = {1757-1763},
+  doi       = {10.1109/IROS.2018.8594062},
   abstract  = {Conventional skid or wheel based helicopter landing gears
                severely limit off-field landing possibilities, which are crucial
                when operating in scenarios such as mountain rescue. In this
@@ -385,6 +390,7 @@
                force control},
   url_pdf   = {files/2018_iros_stolz.pdf},
   url_video = {https://youtu.be/JtoOWS18D3k},
+  url_link  = {https://ieeexplore.ieee.org/document/8594062}
 }
 
 @misc{bjelonicYolo2018,
@@ -393,6 +399,48 @@
   howpublished = {{https://github.com/leggedrobotics/darknet_ros}},
   year = {2016},
   url_link = {https://github.com/leggedrobotics/darknet_ros},
+}
+
+@article{bellicoso2018advances,
+  author    = {Bellicoso, C Dario and
+               Bjelonic, Marko and
+               Wellhausen, Lorenz and
+               Sako, Dhionis and
+               Holtmann, Kai and
+               Guenther, Fabian and
+               Tranzatto, Marco and
+               Fankhauser, P{\'e}ter and
+               Hutter, Marco},
+  title     = {Advances in Real-World Applications for Legged Robots},
+  journal   = {Journal of Field Robotics},
+  volume    = {35},
+  number    = {8},
+  pages     = {1311-1326},
+  doi       = {10.1002/rob.21839},
+  year      = {2018},
+  abstract  = {This paper provides insight into the application of the
+               quadrupedal robot ANYmal in outdoor missions of industrial
+               inspection (ARGOS Challenge) and search and rescue (European
+               Robotics League (ERL)  Emergency Robots). In both competitions,
+               the legged robot had to autonomously and semi-autonomously
+               navigate in real-world scenarios to complete high-level tasks
+               such as inspection and payload delivery. In the ARGOS
+               competition, ANYmal used a rotating LiDAR sensor to
+               localize on the industrial site and map the terrain and obstacles
+               around the robot. In the ERL competition, additional Real-Time
+               Kinematic (RTK)-Global Positioning System (GPS) was used to
+               co-localize the legged robot with respect to a Micro Aerial
+               Vehicle (MAV) that creates maps from the aerial view. The high
+               mobility of legged robots allows overcoming large obstacles, e.g.
+               steps and stairs, with statically and dynamically stable gaits.
+               Moreover, the versatile machine can adapt its posture for
+               inspection and payload delivery. The paper concludes with insight
+               into the general learnings from the ARGOS and ERL challenges.},
+  keywords  = {legged robot, quadrupedal robot, localization, mapping,
+               challenge},
+  url_pdf   = {files/2018_jfr_bellicoso.pdf},
+  url_video = {https://youtu.be/qrJlMze_xhQ},
+  url_link  = {https://doi.org/10.1002/rob.21839}
 }
 
 @article{bjelonic2018keep,
@@ -460,41 +508,4 @@
                optimization and optimal control},
   url_pdf   = {files/2019_ral_de_viragh.pdf},
   url_video = {https://youtu.be/I1aTCTc0J4U}
-}
-
-@article{bellicoso2018advances,
-  author    = {Bellicoso, C Dario and
-               Bjelonic, Marko and
-               Wellhausen, Lorenz and
-               Sako, Dhionis and
-               Holtmann, Kai and
-               Guenther, Fabian and
-               Tranzatto, Marco and
-               Fankhauser, P{\'e}ter and
-               Hutter, Marco},
-  title     = {Advances in Real-World Applications for Legged Robots},
-  journal   = {Journal of Field Robotics},
-  year      = {2018},
-  abstract  = {This paper provides insight into the application of the
-               quadrupedal robot ANYmal in outdoor missions of industrial
-               inspection (ARGOS Challenge) and search and rescue (European
-               Robotics League (ERL)  Emergency Robots). In both competitions,
-               the legged robot had to autonomously and semi-autonomously
-               navigate in real-world scenarios to complete high-level tasks
-               such as inspection and payload delivery. In the ARGOS
-               competition, ANYmal used a rotating LiDAR sensor to
-               localize on the industrial site and map the terrain and obstacles
-               around the robot. In the ERL competition, additional Real-Time
-               Kinematic (RTK)-Global Positioning System (GPS) was used to
-               co-localize the legged robot with respect to a Micro Aerial
-               Vehicle (MAV) that creates maps from the aerial view. The high
-               mobility of legged robots allows overcoming large obstacles, e.g.
-               steps and stairs, with statically and dynamically stable gaits.
-               Moreover, the versatile machine can adapt its posture for
-               inspection and payload delivery. The paper concludes with insight
-               into the general learnings from the ARGOS and ERL challenges.},
-  keywords  = {legged robot, quadrupedal robot, localization, mapping,
-               challenge},
-  url_pdf   = {files/2018_jfr_bellicoso.pdf},
-  url_video = {https://youtu.be/qrJlMze_xhQ},
 }
