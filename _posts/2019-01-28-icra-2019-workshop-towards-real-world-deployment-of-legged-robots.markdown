@@ -19,3 +19,10 @@ Kevin Blankespoor [Boston Dynamics, USA]; Prof. Sangbae Kim [MIT, USA]; Prof. Ma
 
 <h4>Organizers:</h4>
 Bjelonic [ETH Zurich, Switzerland]; Dr. Dimitrios Kanoulas [IIT, Italy]; Prof. Krzysztof Walas [Poznan University of Technology, Poland]; Dr. Marco Camurri [University of Oxford, England]; Dr. Navinda Kottege [CSIRO, Australia]; Dr. Eiichi Yoshida [AIST, Japan]; Dr. Andrea Del Prete [MPI, Germany]; C. Dario Bellicoso [ETH Zurich, Switzerland]; Dr. Tirthankar Bandyopadhyay [CSIRO, Australia] Prof. Maurice Fallon [University of Oxford, England]; Prof. Ioannis Havoutis [University of Oxford, England]; Prof. Marco Hutter [ETH Zurich, Switzerland]
+
+News ["ICRA 2019 Workshop"](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more) from IEEE Spectrum:
+
+<div class="container">
+  <iframe src="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more"
+  frameborder="0" allowfullscreen class="video"></iframe>
+</div>
