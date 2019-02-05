@@ -443,6 +443,70 @@
   url_link  = {https://doi.org/10.1002/rob.21839}
 }
 
+@article{deviragh2018trajectory,
+  author    = {de Viragh, Yvain and
+               Bjelonic, Marko and
+               Bellicoso, C Dario and
+               Jenelten, Fabian and
+               Hutter, Marco},
+  title     = {Trajectory Optimization for Wheeled-Legged Quadrupedal Robots
+               using Linearized ZMP Constraints},
+  journal   = {IEEE Robotics and Automation Letters},
+  year      = {2019},
+  doi       = {10.1109/LRA.2019.2896721},
+  abstract  = {We present a trajectory optimizer for quadrupedal
+               robots with actuated wheels. By solving for angular, vertical,
+               and planar components of the base and feet trajectories in a
+               cascaded fashion and by introducing a novel linear formulation of
+               the zero-moment point (ZMP) balance criterion, we rely on
+               quadratic programming only, thereby eliminating the need for
+               nonlinear optimization routines. Yet, even for gaits containing
+               full flight phases, we are able to generate trajectories for
+               executing complex motions that involve simultaneous driving,
+               walking, and turning. We verified our approach in simulations of
+               the quadrupedal robot ANYmal equipped with wheels, where we are
+               able to run the proposed trajectory optimizer at 50 Hz. To the
+               best of our knowledge, this is the first time that such dynamic
+               motions are demonstrated for wheeled-legged quadrupedal robots
+               using an online motion planner.},
+  keywords  = {legged robot, wheeled robot, motion planning and path planning,
+               optimization and optimal control},
+  url_pdf   = {files/2019_ral_de_viragh.pdf},
+  url_video = {https://youtu.be/I1aTCTc0J4U},
+  url_link  = {https://ieeexplore.ieee.org/document/8630448}
+}
+
+@article{bjelonic2018keep,
+  author    = {Buchanan, Russel and
+               Bandyopadhyay, Tirthankar and
+               Bjelonic, Marko and
+               Wellhausen, Lorenz and
+               Hutter, Marco and
+               Kottege, Navinda},
+  title     = {Walking Posture Adaptation for Legged Robots},
+  journal   = {IEEE Robotics and Automation Letters},
+  year      = {2019},
+  abstract  = {Legged robots have the ability to adapt their walking posture to
+               navigate confined spaces due to their high degrees of freedom.
+               However, this has not been exploited in most common multilegged
+               platforms. This paper presents a deformable bounding box
+               abstraction of the robot model, with accompanying mapping and
+               planning strategies, that enable a legged robot to autonomously
+               change its body shape to navigate confined spaces. The mapping
+               is achieved using robot-centric multi-elevation maps generated
+               with distance sensors carried by the robot. The path planning is
+               based on the trajectory optimisation algorithm CHOMP which
+               creates smooth trajectories while avoiding obstacles. The
+               proposed method has been tested in simulation and implemented on
+               the hexapod robot Weaver, which is 33\,cm tall and 82\,cm wide
+               when walking normally. We demonstrate navigating under 25\,cm
+               overhanging obstacles, through 70\,cm wide gaps and over 22\,cm
+               high obstacles in both artificial testing spaces and realistic
+               environments, including a subterranean mining tunnel.},
+  keywords  = {legged robots, motion control},
+  url_pdf   = {files/2019_ral_buchanan.pdf},
+}
+
 @article{bjelonic2018keep,
   author    = {Bjelonic, Marko and
                Bellicoso, C Dario and
@@ -477,35 +541,4 @@
   url_pdf   = {files/2019_ral_bjelonic.pdf},
   url_video = {https://youtu.be/nGLUsyx9Vvc},
   url_link  = {https://arxiv.org/abs/1809.03557},
-}
-
-@article{deviragh2018trajectory,
-  author    = {de Viragh, Yvain and
-               Bjelonic, Marko and
-               Bellicoso, C Dario and
-               Jenelten, Fabian and
-               Hutter, Marco},
-  title     = {Trajectory Optimization for Wheeled-Legged Quadrupedal Robots
-               using Linearized ZMP Constraints},
-  journal   = {IEEE Robotics and Automation Letters},
-  year      = {2019},
-  abstract  = {We present a trajectory optimizer for quadrupedal
-               robots with actuated wheels. By solving for angular, vertical,
-               and planar components of the base and feet trajectories in a
-               cascaded fashion and by introducing a novel linear formulation of
-               the zero-moment point (ZMP) balance criterion, we rely on
-               quadratic programming only, thereby eliminating the need for
-               nonlinear optimization routines. Yet, even for gaits containing
-               full flight phases, we are able to generate trajectories for
-               executing complex motions that involve simultaneous driving,
-               walking, and turning. We verified our approach in simulations of
-               the quadrupedal robot ANYmal equipped with wheels, where we are
-               able to run the proposed trajectory optimizer at 50 Hz. To the
-               best of our knowledge, this is the first time that such dynamic
-               motions are demonstrated for wheeled-legged quadrupedal robots
-               using an online motion planner.},
-  keywords  = {legged robot, wheeled robot, motion planning and path planning,
-               optimization and optimal control},
-  url_pdf   = {files/2019_ral_de_viragh.pdf},
-  url_video = {https://youtu.be/I1aTCTc0J4U}
 }
