@@ -45,7 +45,7 @@
         </ul>
         {% endif %}
       -->
-
+        <!--
         <a target="_blank" href="http://www.ethz.ch" title="ETH Zurich">
           <img src="/images/ethzurich.png" style="width: 70%">
         </a>
@@ -59,31 +59,44 @@
         </a>
         </br>
         </br>
+        -->
 
         <p style="text-align: left">
-          <img align="bottom" src="/images/icons/linkedin.png" class="rss opacity" style="width:15px">
-          <a target="_blank" href="https://www.linkedin.com/in/bjelonic/" title="LinkedIn">LinkedIn</a>
-          &nbsp&middot&nbsp
-          <img align="bottom" src="/images/icons/googlescholar.png" class="rss opacity" style="width: 15px;" align="bottom">
-          <a target="_blank" href="https://scholar.google.com/citations?user=W7PnUfUAAAAJ&hl=en" title="Google Scholar">Google Scholar</a>
-          <br />
-          <img align="bottom" src="/images/icons/github.png" class="rss opacity" style="width: 15px;" align="bottom">
-          <a target="_blank" href="https://github.com/mbjelonic" title="GitHub">GitHub</a>
-          &nbsp&middot&nbsp
-          <img align="bottom" src="/images/icons/youtube.png" class="rss opacity" style="width:14px">
-          <a target="_blank" href="https://www.youtube.com/user/leggedrobotics" title="YouTube">YouTube</a>
-          <br />
-          <img align="bottom" src="/images/icons/researchgate.png" class="rss opacity" style="width:14px">
-          <a target="_blank" href="https://www.researchgate.net/profile/Marko_Bjelonic" title="ResearchGate">ResearchGate</a>
-          &nbsp&middot&nbsp
-          <img align="bottom" src="/images/icons/twitter.png" class="rss opacity" style="width:14px">
-          <a target="_blank" href="https://twitter.com/leggedrobotics" title="Twitter">Twitter</a>
-          <br />
-          <img align="bottom" src="/images/icons/instagram.png" class="rss opacity" style="width:14px">
-          <a target="_blank" href="https://www.instagram.com/bjelonic/" title="Instagram">Instagram</a>
-          &nbsp&middot&nbsp
-          <img align="bottom" src="/images/icons/facebook.png" class="rss opacity" style="width:14px">
-          <a target="_blank" href="https://www.facebook.com/marko.bjelonic" title="Facebook">Facebook</a>
+          <a target="_blank" href="mailto:markob@ethz.ch" title="email">
+            <img align="bottom" src="/images/icons/email.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://www.linkedin.com/in/bjelonic/" title="LinkedIn">
+            <img align="bottom" src="/images/icons/linkedin.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://scholar.google.com/citations?user=W7PnUfUAAAAJ&hl=en" title="Google Scholar">
+            <img align="bottom" src="/images/icons/googlescholar.png" class="rss opacity" style="width:20px;">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://github.com/mbjelonic" title="GitHub">
+            <img align="bottom" src="/images/icons/github.png" class="rss opacity" style="width:20px;">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://www.youtube.com/user/leggedrobotics" title="YouTube">
+            <img align="bottom" src="/images/icons/youtube.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://www.researchgate.net/profile/Marko_Bjelonic" title="ResearchGate">
+            <img align="bottom" src="/images/icons/researchgate.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://twitter.com/leggedrobotics" title="Twitter">
+            <img align="bottom" src="/images/icons/twitter.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://www.instagram.com/bjelonic/" title="Instagram">
+            <img align="bottom" src="/images/icons/instagram.png" class="rss opacity" style="width:20px">
+          </a>
+          &nbsp
+          <a target="_blank" href="https://www.facebook.com/marko.bjelonic" title="Facebook">
+            <img align="bottom" src="/images/icons/facebook.png" class="rss opacity" style="width:20px">
+          </a>
         </p>
       </header>
 
@@ -91,13 +104,11 @@
 
       {{ content }}
 
+      <hr>
+
+      <p><small>Made by Marko Bjelonic <!-- &mdash; Built with <a href="https://jekyllrb.com/">Jekyll</a>--> <!-- &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
+
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>© 2018 Marko Bjelonic &mdash; Built with <a href="https://jekyllrb.com/">Jekyll</a> <!-- &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
