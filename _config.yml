@@ -17,7 +17,7 @@ title: Marko Bjelonic
 logo: images/me_and_anymal.jpg
 email: markob@ethz.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Marko Bjelonic is a robotics researcher <a href=http://www.rsl.ethz.ch/>Robotic System Lab of ETH Zurich</a> focusing on motion control and planning for wheeled-legged robots in rough terrain.
+  Marko Bjelonic is a PhD researcher at the <a href=http://www.rsl.ethz.ch/>Robotic Systems Lab of ETH Zurich</a> focusing on motion control and planning for wheeled-legged robots in rough terrain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mbjelonic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leggedrobotics
