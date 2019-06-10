@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "ICRA 2019 Workshop - Towards Real-World Deployment of Legged Robots"
+title:  "Call for Contribution at ICRA 2019 Workshop - Towards Real-World Deployment of Legged Robots"
 date:   2019-01-28 09:00:00 +0200
 categories: news
 ---
 <p style="text-align:justify">
-Full day workshop "Towards Real-World Deployment of Legged Robots" at ICRA 2019 (May 23/24, 2019) in Montreal, Canada.
+Call for contribution at full day workshop "Towards Real-World Deployment of Legged Robots" at ICRA 2019 (May 23/24, 2019) in Montreal, Canada.
 </p>
 
 Workshop website: [https://icra2019wslocomotion.wordpress.com](https://icra2019wslocomotion.wordpress.com)
