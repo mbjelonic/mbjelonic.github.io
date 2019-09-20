@@ -68,6 +68,8 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 <dl>
  <dt>Sep 2019</dt>
  <dd>Live demonstration of ANYmal on wheels at Digital Day, Zurich, Switzerland</dd>
+ <dt>Sep 2019</dt>
+ <dd>ANYmal on wheels with arm featured in <a href='https://youtu.be/1gyEkcSs_cg?t=214'>armasuisse promotion video</a>, Zurich, Switzerland</dd>
  <dt>July 2019</dt>
  <dd>Talk at <a href='https://www.engr.washington.edu/about/bldgs/cse'>Paul G. Allen School of Computer Science & Engineering at University of Washington</a>, invited by Dieter Fox, Seattle, USA</dd>
  <dt>May 2019</dt>
