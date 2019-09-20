@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "ANYmal on wheels with arm in armasuisse promotion video"
+title:  "ANYmal on wheels with arm featured on armasuisse promotion video"
 date:   2019-09-02 09:00:00 +0200
 categories: news
 ---
-ANYmal on wheels with arm in armasuisse promotion video ["armasuisse as an employer"](https://youtu.be/1gyEkcSs_cg?t=214):
+ANYmal on wheels with arm featured on armasuisse promotion video ["armasuisse as an employer"](https://youtu.be/1gyEkcSs_cg?t=214):
 
 <a target="_blank" href="https://youtu.be/1gyEkcSs_cg?t=214" title="ANYmal on wheels with arm in armasuisse promotion video">
   <img src="/images/armasuisse_screenshot.png" style="width: 100%">
