@@ -67,7 +67,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 
 <dl>
  <dt>Sep 2019</dt>
- <dd>Live demonstration of ANYmal on wheels at Digital Day, Zurich, Switzerland</dd>
+ <dd>Live demonstration <a href='https://youtu.be/0l3qitZHYWA'>"Roller-Walking ANYmal"</a> at Digital Day 2019, Zurich, Switzerland</dd>
  <dt>Sep 2019</dt>
  <dd>ANYmal on wheels with arm featured on <a href='https://youtu.be/1gyEkcSs_cg?t=214'>armasuisse promotion video</a>, Zurich, Switzerland</dd>
  <dt>July 2019</dt>
