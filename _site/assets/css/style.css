@@ -448,6 +448,9 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
+html * {
+  font-family: Open Sans !important; }
+
 .container {
   position: relative;
   width: 100%;

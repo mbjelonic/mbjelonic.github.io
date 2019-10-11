@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+html *
+{
+   font-family: Open Sans !important;
+}
+
 .container {
     position: relative;
     width: 100%;
