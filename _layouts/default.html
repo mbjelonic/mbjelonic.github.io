@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Marko Bjelonic is a PhD researcher at ETH Zurich focusing on motion control and planning for wheeled-legged robots in rough terrain.">
+    <meta name="description" content="Marko Bjelonic is a Roboticist at ETH Zurich focusing on motion control and planning for wheeled-legged robots in rough terrain.">
     <meta name="keywords" content="ETH Zurich, Marko Bjelonic, Robotics, Legged Robotics, Motion Planning, Wheeled Robots, Wheeled-Legged Robots, Motion and Path Planning, Legged Locomotion, Trajectory Optimization, Model Predictive Control, Optimal Control">
     <meta name="author" content="Marko Bjelonic">
     <meta name="google-site-verification" content="4p8LiHgace_ryeQMGBK8caQENvwJTrcIykGhE-jCYPQ" />
@@ -26,11 +26,18 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        <script src="/js/typewriter.js"></script>
+        <h3>
+          <a href="{{ "/" | absolute_url }}" class="typewrite" data-period="2000" data-type='[ "Robotics.", "Artificial Intelligence.", "Motion and Path Planning.", "Hybrid Locomotion.",  "Optimal Control."]'>
+            <span class="wrap"></span>
+          </a>
+        </h3>
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <center> <b> <p>{{ site.description | default: site.github.project_tagline }}</p> </b> </center>
+        <!-- <center> <b> <p>{{ site.description | default: site.github.project_tagline }}</p> </b> </center> -->
 
         <!--
         {% if site.github.is_project_page %}
