@@ -13,7 +13,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 ## Education
 
 <div class="app">
-  <ul class="hs_about full">
+  <ul class="hs full" style="grid-template-rows: minmax(50px, 1fr); grid-auto-columns: 150px;">
     <li class="item">
       <a target="_blank" href="http://www.ethz.ch" title="ETH Zurich">
         <img src="/images/ethzurich.png" style="width: 90%">
@@ -46,7 +46,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 ## Professional Career
 
 <div class="app">
-  <ul class="hs_about full">
+  <ul class="hs full" style="grid-template-rows: minmax(50px, 1fr); grid-auto-columns: 150px;">
     <li class="item">
       <a target="_blank" href="http://www.dfab.ch/" title="NCCR Digital Fabrication">
         <img src="/images/nccr_dfab_logo.jpg" style="width: 100%" align="middle">
