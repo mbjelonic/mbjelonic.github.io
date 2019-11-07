@@ -185,3 +185,34 @@ body {
   align-items: center;
   border-radius: 8px;
 }
+
+.hs_about {
+  display: grid;
+  grid-gap: calc(var(--gutter) / 2);
+  grid-template-columns: 10px;
+  grid-template-rows: minmax(50px, 1fr);
+  grid-auto-flow: column;
+  grid-auto-columns: 150px;
+
+  overflow-x: scroll;
+  scroll-snap-type: x proximity;
+  padding-bottom: calc(.75 * var(--gutter));
+  margin-bottom: calc(-.25 * var(--gutter));
+}
+
+.hs_about:before,
+.hs_about:after {
+  content: '';
+  width: 10px;
+}
+
+.hs_about > li,
+.item {
+  scroll-snap-align: center;
+  padding: calc(var(--gutter) / 2 * 1.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
