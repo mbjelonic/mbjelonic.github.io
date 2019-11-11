@@ -42,28 +42,16 @@
  <a href="/publications/">Publications</a>
  <a href="/software/">Software</a>
  <a href="/personal/">Personal</a>
- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+ <a href="javascript:void(0);" class="icon" onclick="topNavigation()">
    <i class="fa fa-bars"></i>
  </a>
 </div>
-
-<script>
-function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-        x.className += " responsive";
-    } else {
-        x.className = "topnav";
-    }
-}
-</script>
 <div class="main">
 
     <div class="wrapper">
       <header>
         <h1><a href="http://localhost:4000/">Marko Bjelonic</a></h1>
 
-        <script src="/js/typewriter.js"></script>
         <h3>
           <a href="http://localhost:4000/" class="typewrite" data-period="2000" data-type='[ "Robotics.", "Artificial Intelligence.", "Motion and Path Planning.", "Hybrid Locomotion.",  "Optimal Control."]'>
             <span class="wrap"></span>
@@ -152,9 +140,6 @@ Software
 <a href=https://github.com/leggedrobotics/darknet_ros>(GitHub)</a>
 </h4>
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/mbjelonic" data-size="large" data-show-count="true" aria-label="Follow @mbjelonic on GitHub">Follow</a>
 
@@ -184,6 +169,9 @@ create a network with your own detection objects.
 </p>
 <div style="padding-top:30px"></div>
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
       <a target="_blank" title="Hybrid Locomotion of a Wheeled Quadrupedal Robot">
         <img src="/images/hybrid_motion.gif" class="center">
@@ -196,6 +184,8 @@ create a network with your own detection objects.
       </section>
     </div>
     <script src="/assets/js/scale.fix.js"></script>
+    <script src="/assets/js/typewriter.js"></script>
+    <script src="/assets/js/topNavigation.js"></script>
     
     </div>
   </body>
