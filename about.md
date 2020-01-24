@@ -121,8 +121,20 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
  <dd>Talk at <a href='https://www.apple.com/'>Autonomous Systems Group at Apple</a>, invited by Juergen Wiest, Zurich, Switzerland</dd>
  <dt>May 2019</dt>
  <dd>Organizer of workshop <a href='https://icra2019wslocomotion.wordpress.com/'>“Towards Real-World Deployment of Legged Robots”</a> at <a href='https://www.icra2019.org/'>ICRA 2019</a>, Montreal, Canada</dd>
+ <dt>May 2019</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2019_ral_bjelonic.pdf'>“Keep Rollin'- Whole-Body Motion Control and Planning for Wheeled Quadrupedal Robots”</a> at IEEE International Conference on Robotics and Automation (ICRA),  Montreal , Canada </dd>
  <dt>Dec 2018</dt>
  <dd>Interview with RTL Aktuell <a href='https://youtu.be/WSOUDZ3qEJM'>“ANYmal shows its skills on TV”</a>, Zurich, Switzerland</dd>
+ <dt>Oct 2018</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2018_iros_bjelonic.pdf'>“Skating with a force controlled quadrupedal robot”</a> at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),  Madrid , Spain </dd>
+ <dt>Oct 2018</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2018_iros_stolz.pdf'>“An Adaptive Landing Gear for Extending the Operational Range of Helicopters”</a> at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),  Madrid , Spain </dd>
  <dt>Mar 2018</dt>
  <dd>Interview with BBC News about <a href='https://www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue'>“Rollerskating robot to the rescue”</a>, Zurich, Switzerland</dd>
+ <dt>May 2017</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2017_icra_bjelonic.pdf'>“Autonomous Navigation of Hexapod Robots with Vision-based Controller Adaptation”</a> at IEEE International Conference on Robotics and Automation (ICRA),  Marina Bay Sands , Singapore </dd>
+ <dt>Oct 2016</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2016_iser_homberger.pdf'>“Terrain-dependant Control of Hexapod Robots using Vision”</a> at International Symposium on Experimental Robotics (ISER), Tokyo, Japan</dd>
+ <dt>Oct 2016</dt>
+ <dd>Presenting paper <a href='https://www.markobjelonic.com/publications/files/2016_iros_bjelonic.pdf'>“Proprioceptive control of an over-actuated hexapod robot in unstructured terrain”</a> at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Deajeon, South Korea</dd>
 </dl>
