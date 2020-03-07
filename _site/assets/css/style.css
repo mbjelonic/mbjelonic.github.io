@@ -604,3 +604,7 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 8px; }
+
+sup {
+  vertical-align: super;
+  font-size: smaller; }
