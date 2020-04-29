@@ -486,10 +486,14 @@
                Wellhausen, Lorenz and
                Hutter, Marco and
                Kottege, Navinda},
-  title     = {Walking Posture Adaptation for Legged Robots},
+  title     = {Walking Posture Adaptation for Legged Robot Navigation in
+               Confined Spaces},
   journal   = {IEEE Robotics and Automation Letters},
-  year      = {2019},
+  volume    = {4},
+  number    = {2},
+  pages     = {2148-2155},
   doi       = {10.1109/LRA.2019.2899664},
+  year      = {2019},
   abstract  = {Legged robots have the ability to adapt their walking posture to
                navigate confined spaces due to their high degrees of freedom.
                However, this has not been exploited in most common multilegged
@@ -523,8 +527,11 @@
   title     = {Keep Rollin'- Whole-Body Motion Control and Planning for Wheeled
                Quadrupedal Robots},
   journal   = {IEEE Robotics and Automation Letters},
-  year      = {2019},
+  volume    = {4},
+  number    = {2},
+  pages     = {2116-2123},
   doi       = {10.1109/LRA.2019.2899750},
+  year      = {2019},
   abstract  = {We show dynamic locomotion strategies for wheeled quadrupedal
                robots, which combine the advantages of both walking and
                driving. The developed optimization framework tightly integrates
@@ -621,7 +628,11 @@
                Hutter, Marco},
   title     = {Rolling in the Deep - Hybrid Locomotion for Wheeled-Legged
                Robots using Online Trajectory Optimization},
-  journal   = {submitted to IEEE Robotics and Automation Letters},
+  journal   = {IEEE Robotics and Automation Letters},
+  volume    = {5},
+  number    = {2},
+  pages     = {3626-3633},
+  doi       = {10.1109/LRA.2020.2979661},
   year      = {2020},
   abstract  = {Wheeled-legged robots have the potential for highly agile and
                versatile locomotion. The combination of legs and wheels might
@@ -648,4 +659,46 @@
                motion and path planning, optimization and optimal control},
   url_pdf   = {files/2020_ral_bjelonic.pdf},
   url_video = {https://youtu.be/ukY0vyM-yfY},
+  url_link  = {https://ieeexplore.ieee.org/document/9028228},
+}
+
+@article{medeiros2020trajectory,
+  author    = {Medeiros, S. Vivian and
+               Jelavic, Edo and
+               Bjelonic, Marko and
+               Siegwart, Roland and
+               Meggiolaro, A. Marco and
+               Hutter, Marco},
+  title     = {Trajectory Optimization for Wheeled-Legged Quadrupedal Robots
+               Driving in Challenging Terrain},
+  journal   = {IEEE Robotics and Automation Letters},
+  year      = {2020},
+  abstract  = {Wheeled-legged robots are an attractive solution for versatile
+               locomotion in challenging terrain. They combine the speed and
+               efficiency of wheels with the ability of legs to traverse
+               challenging terrain. In this paper, we present a trajectory
+               optimization formulation for wheeled-legged robots that
+               optimizes over the base and wheels' positions and forces and
+               takes into account the terrain information while computing the
+               plans. This enables us to find optimal driving motions over
+               challenging terrain. The robot is modeled as a single
+               rigid-body, which allows us to plan complex motions and still
+               keep a low computational complexity to solve the optimization
+               quickly. The terrain map, together with the use of a stability
+               constraint, allows the optimizer to generate feasible motions
+               that cannot be discovered without taking the terrain information
+               into account. The optimization is formulated as a Nonlinear
+               Programming (NLP) problem and the reference motions are tracked
+               by a hierarchical whole-body controller that computes the torque
+               actuation commands for the robot. The trajectories have been
+               experimentally verified on quadrupedal robot ANYmal equipped
+               with non-steerable torque-controlled wheels. Our trajectory
+               optimization framework enables wheeled quadrupedal robots to
+               drive over challenging terrain, e.g., steps, slopes, stairs,
+               while negotiating these obstacles with dynamic motions.},
+  keywords  = {legged robots, wheeled robots, motion planning,
+               optimization and optimal control},
+  url_pdf   = {files/2020_ral_medeiros.pdf},
+  url_video = {https://youtu.be/DlJGFhGS3HM},
+  url_link  = {https://ieeexplore.ieee.org/document/9079567},
 }
