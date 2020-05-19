@@ -105,6 +105,8 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 ## Talks, Presentations and Media Coverage
 
 <dl>
+ <dt>May 2020</dt>
+ <dd>Live presentation at ICRA 2020 <a href='https://youtu.be/tf_twcbF4P4'>"Hybrid Locomotion for Wheeled-Legged Robots"</a>, Paris, France</dd>
  <dt>Sep 2019</dt>
  <dd>Live demonstration <a href='https://youtu.be/0l3qitZHYWA'>"Roller-Walking ANYmal"</a> at Digital Day 2019, Zurich, Switzerland</dd>
  <dt>Sep 2019</dt>

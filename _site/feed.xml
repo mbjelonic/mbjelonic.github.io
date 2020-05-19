@@ -7,6 +7,24 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Presentation at ICRA 2020: Hybrid Locomotion for Wheeled-Legged Robots</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/tf_twcbF4P4&quot;&gt;Presentation at ICRA 2020&lt;/a&gt;: Our quadrupedal robot ANYmal equipped with actuated wheels 
+performs dynamic hybrid walking-driving motions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://youtu.be/tf_twcbF4P4&quot; title=&quot;Roller-Walking ANYmal live at Digital Day 2019&quot;&gt;
+  &lt;img src=&quot;/images/anymal_c_wheels.jpg&quot; class=&quot;center&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/tf_twcbF4P4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 19 May 2020 09:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2020/05/19/icra_2020_presentation.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2020/05/19/icra_2020_presentation.html</guid>
+      </item>
+    
+      <item>
         <title>Roller-Walking ANYmal live at Digital Day 2019</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/0l3qitZHYWA&quot;&gt;Roller-Walking ANYmal&lt;/a&gt; performing live on stage at Digital Day 2019 in Zurich.&lt;/p&gt;
 
@@ -175,19 +193,6 @@ ANYmal was featured on German news program RTL Aktuell. With 3 million average v
         <pubDate>Sat, 29 Sep 2018 09:00:00 +0200</pubDate>
         <link>http://localhost:4000//news/2018/09/29/world_cup_fever_ieee_spectrum.html</link>
         <guid isPermaLink="true">http://localhost:4000//news/2018/09/29/world_cup_fever_ieee_spectrum.html</guid>
-      </item>
-    
-      <item>
-        <title>Interview with BBC News</title>
-        <description>&lt;p&gt;Interview with BBC News about &lt;a href=&quot;https://www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue&quot;&gt;“Rollerskating robot to the rescue”&lt;/a&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://www.bbc.com/news/av/technology-43335228/rollerskating-robot-to-the-rescue&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 10 Mar 2018 08:00:00 +0100</pubDate>
-        <link>http://localhost:4000//news/2018/03/10/bbc-news-interview.html</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2018/03/10/bbc-news-interview.html</guid>
       </item>
     
   </channel>
