@@ -6,7 +6,4 @@ categories: news
 ---
 News ["Wheeled and armed ANYmal"](https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more) from IEEE Spectrum:
 
-<div class="container">
-  <iframe src="https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more"
-  frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+[Video Friday: Japan's New Humanoid Robot HRP-5P, and More](https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more)

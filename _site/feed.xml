@@ -7,6 +7,29 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Workshop at ICRA 2020: Real-world Deployment of Legged Robots</title>
+        <description>&lt;p&gt;Due to the covid-19 pandemic, our &lt;a href=&quot;https://sites.google.com/view/leggedrobotworkshop2020&quot;&gt;workshop on “Real-world Deployment of Legged Robots” at ICRA 2020 &lt;/a&gt; was held online.
+You can find all talks of the workshop here:&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?list=PLY45TGWcpM7yGP08j8kYnJZ2ItJtskOh0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&quot;padding-top:10px&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Despite the challenge of having the workshop purely virtual, we managed to gather a large group of people.
+Besides, our workshop was advertised two times by IEEE Spectrum:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/drones/video-friday-skydio-2-back-on-sale&quot;&gt;Video Friday: Skydio 2 Drone Is Back on Sale, Gets Major Software Update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-hyq-robot-ninja-walk&quot;&gt;Video Friday: Quadruped Robot HyQ Learning the Ninja Walk&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Jul 2020 09:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2020/07/05/icra_2020_workshop.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2020/07/05/icra_2020_workshop.html</guid>
+      </item>
+    
+      <item>
         <title>Presentation at ICRA 2020: Hybrid Locomotion for Wheeled-Legged Robots</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/tf_twcbF4P4&quot;&gt;Presentation at ICRA 2020&lt;/a&gt;: Our quadrupedal robot ANYmal equipped with actuated wheels 
 performs dynamic hybrid walking-driving motions.&lt;/p&gt;
@@ -45,9 +68,8 @@ performs dynamic hybrid walking-driving motions.&lt;/p&gt;
         <title>Roller-Skating Quadruped Has Best of Both Worlds Mobility</title>
         <description>&lt;p&gt;News &lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-92019&quot;&gt;“Roller-Skating Quadruped Has Best of Both Worlds Mobility”&lt;/a&gt; from IEEE Spectrum:&lt;/p&gt;
 
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-92019&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-92019&quot;&gt;Video Friday: Roller-Skating Quadruped Has Best of Both Worlds Mobility&lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 20 Sep 2019 09:00:00 +0200</pubDate>
         <link>http://localhost:4000//news/2019/09/20/roller_skating_quadruped_has_best_of_both_worlds_mobility.html</link>
@@ -78,9 +100,7 @@ ANYmal on wheels with an arm was featured by armasuisse.
         <title>ICRA 2019 paper featured on IEEE Spectrum</title>
         <description>&lt;p&gt;News &lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-this-robot-is-learning-to-slice-onions&quot;&gt;“Keep Rollin’ – Whole-Body Motion Control and Planning for Wheeled Quadrupedal Robots”&lt;/a&gt; from IEEE Spectrum:&lt;/p&gt;
 
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-this-robot-is-learning-to-slice-onions&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-this-robot-is-learning-to-slice-onions&quot;&gt;Video Friday: This Robot Is Learning to Slice Onions&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 May 2019 09:00:00 +0200</pubDate>
         <link>http://localhost:4000//news/2019/05/31/icra_paper_ieee_spectrum.html</link>
@@ -140,9 +160,8 @@ Bjelonic [ETH Zurich, Switzerland]; Dr. Dimitrios Kanoulas [IIT, Italy]; Prof. K
 
 &lt;p&gt;News &lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more&quot;&gt;“ICRA 2019 Workshop”&lt;/a&gt; from IEEE Spectrum:&lt;/p&gt;
 
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more&quot;&gt;Video Friday: Package Delivery by Robot, and More&lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 28 Jan 2019 08:00:00 +0100</pubDate>
         <link>http://localhost:4000//news/2019/01/28/call_icra_2019_workshop_towards_real_world_deployment_of_legged_robots.html</link>
@@ -173,26 +192,11 @@ ANYmal was featured on German news program RTL Aktuell. With 3 million average v
         <title>Wheeled and armed ANYmal featured on IEEE Spectrum</title>
         <description>&lt;p&gt;News &lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more&quot;&gt;“Wheeled and armed ANYmal”&lt;/a&gt; from IEEE Spectrum:&lt;/p&gt;
 
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/humanoids/video-friday-japan-new-humanoid-hrp5p-and-more&quot;&gt;Video Friday: Japan’s New Humanoid Robot HRP-5P, and More&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Sep 2018 09:00:00 +0200</pubDate>
         <link>http://localhost:4000//news/2018/09/29/wheeled_and_armed_anymal_ieee_spectrum.html</link>
         <guid isPermaLink="true">http://localhost:4000//news/2018/09/29/wheeled_and_armed_anymal_ieee_spectrum.html</guid>
-      </item>
-    
-      <item>
-        <title>ANYmal in world cup fever featured on IEEE Spectrum</title>
-        <description>&lt;p&gt;News &lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-world-cup-fever-tricopters-of-doom-generation-robot&quot;&gt;“ANYmal in world cup fever”&lt;/a&gt; from IEEE Spectrum:&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-world-cup-fever-tricopters-of-doom-generation-robot&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 29 Sep 2018 09:00:00 +0200</pubDate>
-        <link>http://localhost:4000//news/2018/09/29/world_cup_fever_ieee_spectrum.html</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2018/09/29/world_cup_fever_ieee_spectrum.html</guid>
       </item>
     
   </channel>

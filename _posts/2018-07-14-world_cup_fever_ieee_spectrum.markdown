@@ -6,7 +6,4 @@ categories: news
 ---
 News ["ANYmal in world cup fever"](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-world-cup-fever-tricopters-of-doom-generation-robot) from IEEE Spectrum:
 
-<div class="container">
-  <iframe src="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-world-cup-fever-tricopters-of-doom-generation-robot"
-  frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+[Video Friday: World Cup Fever, Tricopters of Doom, and Generation Robot](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-world-cup-fever-tricopters-of-doom-generation-robot)

@@ -6,7 +6,4 @@ categories: news
 ---
 News ["Robot Roller Skating"](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-bonsai-thors-hammer) from IEEE Spectrum:
 
-<div class="container">
-  <iframe src="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-bonsai-thors-hammer"
-  frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+[Video Friday: Robot Roller Skating, BonsAI Tree, and Thor's Hammer](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-dominos-pizza-handwriting-robot-delivery-ros-master)

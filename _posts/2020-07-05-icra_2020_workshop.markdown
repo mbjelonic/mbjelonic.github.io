@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Workshop at ICRA 2020: Real-world Deployment of Legged Robots"
+date:   2020-07-05 09:00:00 +0200
+categories: news
+---
+Due to the covid-19 pandemic, our [workshop on "Real-world Deployment of Legged Robots" at ICRA 2020 ](https://sites.google.com/view/leggedrobotworkshop2020) was held online.
+You can find all talks of the workshop here:
+
+<div class="container">
+  <iframe src="https://www.youtube.com/embed/videoseries?list=PLY45TGWcpM7yGP08j8kYnJZ2ItJtskOh0"
+  frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<div style="padding-top:10px"></div>
+
+Despite the challenge of having the workshop purely virtual, we managed to gather a large group of people.
+Besides, our workshop was advertised two times by IEEE Spectrum:
+
+[Video Friday: Skydio 2 Drone Is Back on Sale, Gets Major Software Update](https://spectrum.ieee.org/automaton/robotics/drones/video-friday-skydio-2-back-on-sale)
+
+[Video Friday: Quadruped Robot HyQ Learning the Ninja Walk](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-hyq-robot-ninja-walk)
+

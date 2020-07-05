@@ -28,7 +28,5 @@ Bjelonic [ETH Zurich, Switzerland]; Dr. Dimitrios Kanoulas [IIT, Italy]; Prof. K
 
 News ["ICRA 2019 Workshop"](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more) from IEEE Spectrum:
 
-<div class="container">
-  <iframe src="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more"
-  frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+[Video Friday: Package Delivery by Robot, and More](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-anymal-package-delivery-and-more)
+
