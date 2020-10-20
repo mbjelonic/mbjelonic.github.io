@@ -106,7 +106,19 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 
 <dl>
  <dt>Oct 2020</dt>
- <dd>Media coverage of our new RA-L publication at <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Interesting Engineering</a>, <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Reuters UK Science & Tech</a>, <a href='https://www.cnbeta.com/articles/science/1041223.htm'>cnBeta</a>, <a href='https://newatlas.com/robotics/anymal-quadruped-robot-wheels'>NEW ATLAS</a> </dd>
+ <dd>Media coverage of our new RA-L publication at 
+ <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Interesting Engineering</a>, 
+ <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Reuters UK Science & Tech</a>, 
+ <a href='https://www.cnbeta.com/articles/science/1041223.htm'>cnBeta</a>, 
+ <a href='https://newatlas.com/robotics/anymal-quadruped-robot-wheels'>NEW ATLAS</a>, 
+ <a href='https://www.inceptivemind.com/roller-walking-robot-anymal-moves-efficiently-flat-inclined-terrain/15763/'>Inceptive Mind</a>, 
+ <a href='https://www.kijkmagazine.nl/filmpjes/toch-wieltjes-voor-vierpotige-robot-anymal/'>KIJK</a>, 
+ <a href='https://www.lapresse.ca/affaires/techno/2020-10-20/un-robot-chien-a-roulettes.php'>La Presse</a>, 
+ <a href='https://www.worldenergytrade.com/innovacion/robotica/el-robot-anymal-obtiene-un-nuevo-y-util-juego-de-ruedas'>World Energy Trade</a>, 
+ <a href='https://whatnext.pl/czworonozne-roboty-anymals-kolka/'>whatnext</a>, 
+ <a href='https://www.ridus.ru/news/338822'>Ridus</a>, 
+ <a href='https://www.popmech.ru/technologies/news-632803-chetveronogie-roboty-poluchili-sobstvennye-kolesa/'>Pop Mech</a>, 
+ <a href='https://www.nacional.hr/hodajuci-roboti-s-kotacima-ce-uskoro-imati-siru-primjenu/'>Nacional</a></dd>
  <dt>July 2020</dt>
  <dd>Workshop on <a href='https://www.youtube.com/embed/videoseries?list=PLY45TGWcpM7yGP08j8kYnJZ2ItJtskOh0'>"Real-world Deployment of Legged Robots"</a> at ICRA 2020, Paris, France</dd>
  <dt>May 2020</dt>
