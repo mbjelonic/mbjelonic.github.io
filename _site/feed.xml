@@ -8,13 +8,20 @@
     
       <item>
         <title>Meet ANYmal: Energy-Efficient Roller-Walking Robot</title>
-        <description>&lt;p&gt;We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements. 
-You can find the paper &lt;a href=&quot;/publications/files/2021_ral_bjelonic.pdf&quot;&gt;here&lt;/a&gt; and the Video 
+        <description>&lt;p&gt;We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements.
+You can find the paper &lt;a href=&quot;/publications/files/2021_ral_bjelonic.pdf&quot;&gt;here&lt;/a&gt; and the Video
 is available on &lt;a href=&quot;https://youtu.be/tf_twcbF4P4&quot;&gt;YouTube&lt;/a&gt;. You can find a list of press releases below.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot&quot;&gt;Interesting Engineering&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/b_ey3hXAcfU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style=&quot;padding-top:10px&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot&quot;&gt;Reuters UK Science &amp;amp; Tech&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/b_ey3hXAcf&quot;&gt;Reuters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html&quot;&gt;yahoo! news&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot&quot;&gt;Interesting Engineering&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnbeta.com/articles/science/1041223.htm&quot;&gt;cnBeta&lt;/a&gt;&lt;/p&gt;
 
@@ -35,7 +42,6 @@ is available on &lt;a href=&quot;https://youtu.be/tf_twcbF4P4&quot;&gt;YouTube&l
 &lt;p&gt;&lt;a href=&quot;https://www.popmech.ru/technologies/news-632803-chetveronogie-roboty-poluchili-sobstvennye-kolesa/&quot;&gt;Pop Mech&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.nacional.hr/hodajuci-roboti-s-kotacima-ce-uskoro-imati-siru-primjenu/&quot;&gt;Nacional&lt;/a&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Thu, 15 Oct 2020 09:00:00 +0200</pubDate>
         <link>http://localhost:4000//news/2020/10/15/Meet_ANYmal_Energy_Efficient_Roller-Walking_Robot.html</link>

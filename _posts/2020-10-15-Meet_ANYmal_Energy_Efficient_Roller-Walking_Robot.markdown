@@ -5,13 +5,21 @@ date:   2020-10-15 09:00:00 +0200
 categories: news
 ---
 
-We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements. 
-You can find the paper [here](/publications/files/2021_ral_bjelonic.pdf) and the Video 
+We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements.
+You can find the paper [here](/publications/files/2021_ral_bjelonic.pdf) and the Video
 is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of press releases below.
 
-[Interesting Engineering](https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot)
+<div class="container">
+  <iframe src="https://www.youtube.com/embed/b_ey3hXAcfU"
+          frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<div style="padding-top:10px"></div>
 
-[Reuters UK Science & Tech](https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot)
+[Reuters](https://youtu.be/b_ey3hXAcf)
+
+[yahoo! news](https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html)
+
+[Interesting Engineering](https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot)
 
 [cnBeta](https://www.cnbeta.com/articles/science/1041223.htm)
 
@@ -32,6 +40,3 @@ is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of 
 [Pop Mech](https://www.popmech.ru/technologies/news-632803-chetveronogie-roboty-poluchili-sobstvennye-kolesa/)
 
 [Nacional](https://www.nacional.hr/hodajuci-roboti-s-kotacima-ce-uskoro-imati-siru-primjenu/)
-
-
-
