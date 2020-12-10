@@ -110,7 +110,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
  <a href='https://soundcloud.com/ieeeras-softrobotics/marko-bjelonic-wheeled-legged-robots'>Soundcloud</a>,
  <a href='http://apple.co/342ehCv'>iTunes</a>,
  <a href='http://tiny.cc/vslsdz'>Google Podcast</a>,
- <a href='http://tiny.cc/mn2sez'>Spotify</a>
+ <a href='http://tiny.cc/mn2sez'>Spotify</a></dd>
  <dt>Oct 2020</dt>
  <dd>Media coverage of our new RA-L publication at
  <a href='https://youtu.be/b_ey3hXAcf'>Reuters</a>,
