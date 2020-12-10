@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Roboticist at ETH Zurich focusing on Optimal Control for Wheeled-Legged Robots
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.markobjelonic.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: leggedrobotics
+twitter_username: MBjelonic
 github_username:  mbjelonic
 
 # Build settings
