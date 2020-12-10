@@ -105,10 +105,17 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 ## Talks, Presentations and Media Coverage
 
 <dl>
+ <dt>Nov 2020</dt>
+ <dd>Podcast about "Wheeled-legged Robots" by Marwa ElDiwiny featured at the Soft Robotic Podcast:
+ <a href='https://soundcloud.com/ieeeras-softrobotics/marko-bjelonic-wheeled-legged-robots'>Soundcloud</a>,
+ <a href='http://apple.co/342ehCv'>iTunes</a>,
+ <a href='http://tiny.cc/vslsdz'>Google Podcast</a>,
+ <a href='http://tiny.cc/mn2sez'>Spotify</a>
  <dt>Oct 2020</dt>
  <dd>Media coverage of our new RA-L publication at
  <a href='https://youtu.be/b_ey3hXAcf'>Reuters</a>,
- <a href='https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/'>CNN</a>, 
+ <a href='https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots'>IEEE Spectrum</a>,
+ <a href='https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/'>CNN</a>,
  <a href='https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html'>yahoo! news</a>,
  <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Interesting Engineering</a>,
  <a href='https://www.cnbeta.com/articles/science/1041223.htm'>cnBeta</a>,

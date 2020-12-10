@@ -17,6 +17,8 @@ is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of 
 
 [Reuters](https://youtu.be/b_ey3hXAcf)
 
+[IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots)
+
 [CNN](https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/)
 
 [yahoo! news](https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html)

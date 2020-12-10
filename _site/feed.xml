@@ -7,6 +7,18 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Podcast: Marko Bjelonic about Wheeled-legged Robots</title>
+        <description>&lt;p&gt;Podcast about “Wheeled-legged Robots” by Marwa ElDiwiny featured at the Soft Robotic Podcast: &lt;a href=&quot;https://soundcloud.com/ieeeras-softrobotics/marko-bjelonic-wheeled-legged-robots&quot;&gt;Soundcloud&lt;/a&gt;, &lt;a href=&quot;http://apple.co/342ehCv&quot;&gt;iTunes&lt;/a&gt;, &lt;a href=&quot;http://tiny.cc/vslsdz&quot;&gt;Google Podcast&lt;/a&gt;, &lt;a href=&quot;http://tiny.cc/mn2sez&quot;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/932357650&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/ieeeras-softrobotics&quot; title=&quot;Soft Robotics Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Soft Robotics Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/ieeeras-softrobotics/marko-bjelonic-wheeled-legged-robots&quot; title=&quot;Marko Bjelonic &amp;quot;Wheeled-legged Robots&amp;quot;&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Marko Bjelonic &amp;quot;Wheeled-legged Robots&amp;quot;&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2020 08:00:00 +0100</pubDate>
+        <link>http://localhost:4000//news/2020/11/19/Podcast_Marko_Bjelonic_Wheeled-legged_Robots.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2020/11/19/Podcast_Marko_Bjelonic_Wheeled-legged_Robots.html</guid>
+      </item>
+    
+      <item>
         <title>Meet ANYmal: Energy-Efficient Roller-Walking Robot</title>
         <description>&lt;p&gt;We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements.
 You can find the paper &lt;a href=&quot;/publications/files/2021_ral_bjelonic.pdf&quot;&gt;here&lt;/a&gt; and the Video
@@ -18,6 +30,8 @@ is available on &lt;a href=&quot;https://youtu.be/tf_twcbF4P4&quot;&gt;YouTube&l
 &lt;div style=&quot;padding-top:10px&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/b_ey3hXAcf&quot;&gt;Reuters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots&quot;&gt;IEEE Spectrum&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/&quot;&gt;CNN&lt;/a&gt;&lt;/p&gt;
 
@@ -210,26 +224,6 @@ Bjelonic [ETH Zurich, Switzerland]; Dr. Dimitrios Kanoulas [IIT, Italy]; Prof. K
         <pubDate>Mon, 28 Jan 2019 08:00:00 +0100</pubDate>
         <link>http://localhost:4000//news/2019/01/28/call_icra_2019_workshop_towards_real_world_deployment_of_legged_robots.html</link>
         <guid isPermaLink="true">http://localhost:4000//news/2019/01/28/call_icra_2019_workshop_towards_real_world_deployment_of_legged_robots.html</guid>
-      </item>
-    
-      <item>
-        <title>Interview with RTL Aktuell</title>
-        <description>&lt;p&gt;Interview with RTL Aktuell &lt;a href=&quot;https://youtu.be/WSOUDZ3qEJM&quot;&gt;“ANYmal shows its skills on TV”&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://youtu.be/WSOUDZ3qEJM&quot; title=&quot;Interview with RTL Aktuell&quot;&gt;
-  &lt;img src=&quot;/images/rtl_aktuell_screenshot.png&quot; style=&quot;width: 100%&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align:justify&quot;&gt;
-ANYmal was featured on German news program RTL Aktuell. With 3 million average viewers, it is one of the most watched news programs on German language TV. ANYmal shows its locomotion and perception skills, interacts with the public, and demonstrates real-world applications.
-&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/WSOUDZ3qEJM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 13 Dec 2018 08:00:00 +0100</pubDate>
-        <link>http://localhost:4000//news/2018/12/13/rtl_aktuell_interview.html</link>
-        <guid isPermaLink="true">http://localhost:4000//news/2018/12/13/rtl_aktuell_interview.html</guid>
       </item>
     
   </channel>
