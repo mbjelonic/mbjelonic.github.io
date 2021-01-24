@@ -19,6 +19,8 @@ is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of 
 
 [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots)
 
+[Hackaday](https://hackaday.com/2020/12/26/legged-robots-put-on-wheels-and-skate-away/)
+
 [CNN](https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/)
 
 [yahoo! news](https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html)
@@ -34,6 +36,8 @@ is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of 
 [KIJK](https://www.kijkmagazine.nl/filmpjes/toch-wieltjes-voor-vierpotige-robot-anymal/)
 
 [La Presse](https://www.lapresse.ca/affaires/techno/2020-10-20/un-robot-chien-a-roulettes.php)
+
+[Finance Sina](https://finance.sina.com.cn/tech/2021-01-20/doc-ikftssan8633435.shtml)
 
 [World Energy Trade](https://www.worldenergytrade.com/innovacion/robotica/el-robot-anymal-obtiene-un-nuevo-y-util-juego-de-ruedas)
 

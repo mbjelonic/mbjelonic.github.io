@@ -117,6 +117,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
  <a href='https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots'>IEEE Spectrum</a>,
  <a href='https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/'>CNN</a>,
  <a href='https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html'>yahoo! news</a>,
+ <a href='https://hackaday.com/2020/12/26/legged-robots-put-on-wheels-and-skate-away/'>Hackaday</a>,
  <a href='https://interestingengineering.com/meet-anymal-energy-efficient-roller-walking-robot'>Interesting Engineering</a>,
  <a href='https://www.cnbeta.com/articles/science/1041223.htm'>cnBeta</a>,
  <a href='https://newatlas.com/robotics/anymal-quadruped-robot-wheels'>NEW ATLAS</a>,
@@ -127,7 +128,8 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
  <a href='https://whatnext.pl/czworonozne-roboty-anymals-kolka/'>whatnext</a>,
  <a href='https://www.ridus.ru/news/338822'>Ridus</a>,
  <a href='https://www.popmech.ru/technologies/news-632803-chetveronogie-roboty-poluchili-sobstvennye-kolesa/'>Pop Mech</a>,
- <a href='https://www.nacional.hr/hodajuci-roboti-s-kotacima-ce-uskoro-imati-siru-primjenu/'>Nacional</a></dd>
+ <a href='https://www.nacional.hr/hodajuci-roboti-s-kotacima-ce-uskoro-imati-siru-primjenu/'>Nacional</a>,
+ <a href='https://finance.sina.com.cn/tech/2021-01-20/doc-ikftssan8633435.shtml'>Finance Sina</a></dd>
  <dt>July 2020</dt>
  <dd>Workshop on <a href='https://www.youtube.com/embed/videoseries?list=PLY45TGWcpM7yGP08j8kYnJZ2ItJtskOh0'>"Real-world Deployment of Legged Robots"</a> at ICRA 2020, Paris, France</dd>
  <dt>May 2020</dt>
