@@ -7,7 +7,7 @@ permalink: /about/
 # About
 
 <p style="text-align:justify">
-Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S. degrees in mechanical engineering from Technische Universität Darmstadt, Germany, in 2013 and 2016, respectively. He was with the Robotics and Autonomous Systems Group of CSIRO, Australia, in 2015/16. He is currently working toward the Ph.D. degree with the Robotic Systems Lab of ETH Zürich, Switzerland. His research interest includes whole-body motion control and planning for wheeled-legged robots in challenging environments, and the transfer of this technology to robotic and non-robotic applications. The supervisors of his PhD are <a href='https://mavt.ethz.ch/the-department/people/person-detail.MTIxOTEx.TGlzdC81NTMsLTY5MzYxOTMw.html'>Marco Hutter from ETH Zurich</a> and <a href='http://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>Sangbae Kim from Massachusetts Institute of Technology (MIT)</a>.
+Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S. degrees in mechanical engineering from Technische Universität Darmstadt, Germany, in 2013 and 2016, respectively. He was with the Robotics and Autonomous Systems Group of CSIRO, Australia, in 2015/16. He is currently working toward the Ph.D. degree with the Robotic Systems Lab of ETH Zürich, Switzerland. His research interest includes whole-body motion control and planning for wheeled-legged robots in challenging environments, and the transfer of this technology to robotic and non-robotic applications. The supervisors of his PhD are <a href='https://mavt.ethz.ch/the-department/people/person-detail.MTIxOTEx.TGlzdC81NTMsLTY5MzYxOTMw.html'>Marco Hutter from ETH Zurich</a>, <a href='http://crl.ethz.ch/people/coros/index.html'>Stelian Coros from ETH Zurich</a>, and <a href='http://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>Sangbae Kim from Massachusetts Institute of Technology (MIT)</a>.
 </p>
 
 ## Education
@@ -113,7 +113,7 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
  <a href='http://tiny.cc/mn2sez'>Spotify</a></dd>
  <dt>Oct 2020</dt>
  <dd>Media coverage of our new RA-L publication at
- <a href='https://youtu.be/b_ey3hXAcf'>Reuters</a>,
+ <a href='https://youtu.be/b_ey3hXAcfU'>Reuters</a>,
  <a href='https://spectrum.ieee.org/automaton/robotics/robotics-hardware/wheels-are-better-than-feet-for-legged-robots'>IEEE Spectrum</a>,
  <a href='https://cnnespanol.cnn.com/video/anymal-el-robot-de-cuatro-patas-y-sobre-ruedas-agil-rapido-camina-trapa-salta-tiene-sensores-y-camara-laser-eth-zurich-guillermo-arduino-clix-cnnee/'>CNN</a>,
  <a href='https://uk.news.yahoo.com/four-legged-robot-gets-faster-104127809.html'>yahoo! news</a>,
