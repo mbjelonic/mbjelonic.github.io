@@ -851,21 +851,29 @@
   title     = {CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge},
   journal   = {Journal of Field Robotics},
   year      = {2021},
-  abstract  = {Legged robots are exceedingly versatile and have the potential to navigate complex, confined spaces due
-               to their many degrees of freedom. As a result of the computational complexity , there exist no online
-               planners for perceptive whole body locomotion of robots in tight spaces. In this paper, we present a
-               new method for perceptive planning for multi-legged robots, which generates body poses, footholds, and
-               swing trajectories for collision avoidance. Measurements from an onboard depth camera are used to create
-               a 3D map of the terrain around the robot. We randomly sample body poses then smooth the resulting
-               trajectory while satisfying several constraints such as robot kinematics and collision avoidance.
-               Footholds and swing trajectories are computed based on the terrain, and the robot body pose is optimized
-               to ensure stable locomotion while not colliding with the environment. Our method is designed to run
-               online on a real robot and generate trajectories several meters long. We first tested our algorithm in
-               several simulations with varied confined spaces using the quadrupedal robot ANYmal. We also simulated
-               experiments with the hexapod robot Weaver to demonstrate applicability to different legged robot
-               configurations. Then, we demonstrated our whole body planner in several online experiments both indoors
-               and in realistic scenarios at an emergency rescue training facility. ANYmal, which has a nominal
-               standing height of 80 cm and width of 59 cm, navigated through several representative disaster areas
-               with openings as small as 60 cm. 3 m trajectories were re-planned with 500 ms update times.},
+  abstract  = {Autonomous exploration of subterranean environments constitutes a
+               major frontier for robotic systems as underground settings present key
+               challenges that can render robot autonomy hard to achieve. This has
+               motivated the DARPA Subterranean Challenge, where teams of robots search
+               for objects of interest in various underground environments. In response,
+               the CERBERUS system-of-systems is presented as a unified strategy towards
+               subterranean exploration using legged and flying robots.  As primary robots,
+               ANYmal quadruped systems are deployed considering their endurance and potential
+               to traverse challenging terrain. For aerial robots, both conventional and
+               collision-tolerant multirotors are utilized to explore spaces too narrow or
+               otherwise unreachable by ground systems. Anticipating degraded sensing
+               conditions, a complementary multi-modal sensor fusion approach utilizing
+               camera, LiDAR, and inertial data for resilient robot pose estimation is
+               proposed. Individual robot pose estimates are refined by a centralized
+               multi-robot map optimization approach to improve the reported location
+               accuracy of detected objects of interest in the DARPA-defined coordinate
+               frame. Furthermore, a unified exploration path planning policy is presented
+               to facilitate the autonomous operation of both legged and aerial robots in
+               complex underground networks. Finally, to enable communication between the
+               robots and the base station, CERBERUS utilizes a ground rover with a high-gain 
+               antenna and an optical fiber connection to the base station, alongside breadcrumbing
+               of wireless nodes by our legged robots. We report results from the CERBERUS
+               system-of-systems deployment at the DARPA Subterranean Challenge Tunnel and Urban Circuits,
+               along with the current limitations and the lessons learned for the benefit of the community.},
   url_pdf   = {https://www.research-collection.ethz.ch/handle/20.500.11850/489726},
 }
