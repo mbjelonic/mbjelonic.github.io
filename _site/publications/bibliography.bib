@@ -795,7 +795,7 @@
                through kinematic leg utilities without the need for predefined
                contact and lift-off timings. Also, this enables us to reduce
                the cost of transport of wheeled-legged robots significantly.
-               Our experiments demonstrate highly dynamic motions on a 
+               Our experiments demonstrate highly dynamic motions on a
                quadrupedal robot with non-steerable wheels in challenging
                indoor and outdoor environments. Herewith, we verify that a
                single task formulation is key to reveal the full potential of
@@ -804,4 +804,68 @@
                motion and path planning, optimization and optimal control},
   url_pdf   = {files/2021_ral_bjelonic.pdf},
   url_video = {https://youtu.be/_rPvKlvyw2w}
+}
+
+@article{gaertner2021collision,
+  author    = {Gaertner, Magnus and
+               Bjelonic, Marko and
+               Farshidian, Farbod and
+               Hutter, Marco},
+  title     = {Collision-Free MPC for Legged Robots in Static and Dynamic Scenes},
+  journal   = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2021},
+  abstract  = {We present a model predictive controller (MPC) that automatically
+               discovers collision-free locomotion while simultaneously taking into account
+               the system dynamics, friction constraints, and kinematic limitations.
+               A relaxed barrier function is added to the optimization's cost function,
+               leading to collision avoidance behavior without increasing the problem's
+               computational complexity. Our holistic approach does not require any
+               heuristics and enables legged robots to find whole-body motions in the
+               presence of static and dynamic obstacles. We use a dynamically generated
+               euclidean signed distance field for static collision checking. Collision
+               checking for dynamic obstacles is modeled with moving cylinders, increasing
+               the responsiveness to fast-moving agents. Furthermore, we include a Kalman
+               filter motion prediction for moving obstacles into our receding horizon
+               planning, enabling the robot to anticipate possible future collisions. Our
+               experiments demonstrate collision-free motions on a quadrupedal robot in
+               challenging indoor environments. The robot handles complex scenes like
+               overhanging obstacles and dynamic agents by exploring motions at the robot's
+               dynamic and kinematic limits.},
+  keywords  = {legged robots, MPC, collision-free planing, mapping},
+  url_pdf   = {https://arxiv.org/pdf/2103.13987.pdf},
+  url_video = {https://youtu.be/_wkqCVz3gdg},
+}
+
+@article{tranzatto2021cerberus,
+  author    = {Marco Tranzatto, Frank Mascarich, Lukas Bernreiter,
+               Carolina Godinho, Marco Camurri, Shehryar Masaud Khan Khattak,
+               Tung Dang, Victor Reijgwart, Johannes Loeje, David Wisth,
+               Samuel Zimmermann, Huan Nguyen, Marius Fehr, Lukas Solanka,
+               Russell Buchanan, Marko Bjelonic, Nikhil Khedekar, Mathieu Valceschini,
+               Fabian Jenelten, Mihir Dharmadhikari, Timon Homberger, Paolo De Petris,
+               Lorenz Wellhausen, Mihir Kulkarni, Takahiro Miki, Satchel Hirsch,
+               Markus Montenegro, Christos Papachristos, Fabian Tresoldi, Jan Carius,
+               Giorgio Valsecchi, Joonho Lee, Konrad Meyer, Xiangyu Wu, Juan Nieto,
+               Andy Smith, Marco Hutter, Roland Y Siegwart, Mark Mueller,
+               Maurice Fallon, Kostas Alexis},
+  title     = {CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge},
+  journal   = {Journal of Field Robotics},
+  year      = {2021},
+  abstract  = {Legged robots are exceedingly versatile and have the potential to navigate complex, confined spaces due
+               to their many degrees of freedom. As a result of the computational complexity , there exist no online
+               planners for perceptive whole body locomotion of robots in tight spaces. In this paper, we present a
+               new method for perceptive planning for multi-legged robots, which generates body poses, footholds, and
+               swing trajectories for collision avoidance. Measurements from an onboard depth camera are used to create
+               a 3D map of the terrain around the robot. We randomly sample body poses then smooth the resulting
+               trajectory while satisfying several constraints such as robot kinematics and collision avoidance.
+               Footholds and swing trajectories are computed based on the terrain, and the robot body pose is optimized
+               to ensure stable locomotion while not colliding with the environment. Our method is designed to run
+               online on a real robot and generate trajectories several meters long. We first tested our algorithm in
+               several simulations with varied confined spaces using the quadrupedal robot ANYmal. We also simulated
+               experiments with the hexapod robot Weaver to demonstrate applicability to different legged robot
+               configurations. Then, we demonstrated our whole body planner in several online experiments both indoors
+               and in realistic scenarios at an emergency rescue training facility. ANYmal, which has a nominal
+               standing height of 80 cm and width of 59 cm, navigated through several representative disaster areas
+               with openings as small as 60 cm. 3 m trajectories were re-planned with 500 ms update times.},
+  url_pdf   = {https://www.research-collection.ethz.ch/handle/20.500.11850/489726},
 }

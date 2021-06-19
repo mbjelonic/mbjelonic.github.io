@@ -7,7 +7,7 @@ permalink: /about/
 # About
 
 <p style="text-align:justify">
-Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S. degrees in mechanical engineering from Technische Universität Darmstadt, Germany, in 2013 and 2016, respectively. He was with the Robotics and Autonomous Systems Group of CSIRO, Australia, in 2015/16. He is currently working toward the Ph.D. degree with the Robotic Systems Lab of ETH Zürich, Switzerland. His research interest includes whole-body motion control and planning for wheeled-legged robots in challenging environments, and the transfer of this technology to robotic and non-robotic applications. The supervisors of his PhD are <a href='https://mavt.ethz.ch/the-department/people/person-detail.MTIxOTEx.TGlzdC81NTMsLTY5MzYxOTMw.html'>Marco Hutter from ETH Zurich</a>, <a href='http://crl.ethz.ch/people/coros/index.html'>Stelian Coros from ETH Zurich</a>, and <a href='http://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>Sangbae Kim from Massachusetts Institute of Technology (MIT)</a>.
+Marko Bjelonic (born 1990 in Banja Luka, Yugoslavia) is an enthusiastic roboticist and future entrepreneur. During his doctoral degree at ETH Zurich under the supervision of <a href='https://mavt.ethz.ch/the-department/people/person-detail.MTIxOTEx.TGlzdC81NTMsLTY5MzYxOTMw.html'>Prof. Dr. Marco Hutter (ETH Zurich</a>, <a href='http://crl.ethz.ch/people/coros/index.html'>Prof. Dr. Stelian Coros (ETH Zurich)</a>, and <a href='http://meche.mit.edu/people/faculty/SANGBAE@MIT.EDU'>Prof. Dr. Sangbae Kim (MIT in Boston)</a>, Marko developed optimization-based methods focusing on motion control and planning for wheeled-legged robots over challenging terrain (2017 - 2021), which has more than a million views through prestigious news articles like Reuters, CNN, BBC News, IEEE Spectrum and more. Marko holds a Bachelor's and Master's degree in Mechanical Engineering from TU Darmstadt, Germany (2010 - 2013, 2013 - 2016). He spent the first year of his Master's degree at the Cybernetics department of NTNU in Trondheim, Norway (2013 - 2014). During his studies, he worked at the Mercedes-AMG GmbH in Affalterbach (Germany), Fraunhofer LBF in Darmstadt (Germany), and most notably at CSIRO in Brisbane (Australia) with Dr. Alberto Elfes and Dr. Navinda Kottege on multi-legged robots. Previous work during his Master's thesis consists of the development of the hexapod robot, Weaver, including its state estimation, perception, autonomy, and control algorithms. In 2020, he managed his family owned business with an annual sales of 350K USD and negotiated a company sale in 2021.
 </p>
 
 ## Education
@@ -33,12 +33,18 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 </div>
 
 <dl>
- <dt>Sep 2016 - Sep 2020</dt>
+ <dt>Mar 2021 - Ongoing</dt>
+ <dd>Postdoc in Robotics, ETH Zurich (Switzerland)</dd>
+
+ <dt>Mar 2017 - Mar 2021</dt>
  <dd>PhD in Robotics, ETH Zurich (Switzerland)</dd>
+
  <dt>Jul 2014 - Aug 2016</dt>
  <dd>M. Sc. in Mechanical Engineering, Technical University of Darmstadt (Germany)</dd>
+
  <dt>Aug 2013 - July 2014</dt>
  <dd>M. Sc. in Engineering (Exchange), NTNU in Trondheim (Norway)</dd>
+
  <dt>Oct 2010 - Oct 2013</dt>
  <dd>B. Sc. in Mechanical Engineering, Technical University of Darmstadt (Germany)</dd>
 </dl>
@@ -86,18 +92,27 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 </div>
 
 <dl>
- <dt>Jan 2017 - Sep 2020</dt>
- <dd>Researcher, NCCR Digital Fabrication (Switzerland)</dd>
- <dt>Jan 2017 - Sep 2020</dt>
- <dd>Researcher, NCCR Robotics (Switzerland)</dd>
- <dt>Sep 2016 - Sep 2020</dt>
+ <dt>Sep 2016 - Ongoing</dt>
  <dd>Roboticist, ETH Zurich (Switzerland)</dd>
+
+ <dt>Jul 2020 - Jul 2021</dt>
+ <dd>Entrepreneur (annual sales of 350K USD and company sale), Mannheim (Germany)</dd>
+
+ <dt>Mar 2017 - Mar 2021</dt>
+ <dd>Researcher, NCCR Digital Fabrication (Switzerland)</dd>
+
+ <dt>Mar 2017 - Mar 2021</dt>
+ <dd>Researcher, NCCR Robotics (Switzerland)</dd>
+
  <dt>Nov 2015 - Aug 2016</dt>
  <dd>Postgraduate Student at Autonomous Systems Lab of CSIRO in Brisbane (Australia)</dd>
+
  <dt>May 2015 - Oct 2015</dt>
  <dd>Research Assistant at Fraunhofer LBF in Darmstadt (Germany)</dd>
+
  <dt>Jun 2014 - Feb 2015</dt>
  <dd>Engineering Intern at Mercedes-AMG GmbH in Affalterbach (Germany)</dd>
+
  <dt>Oct 2008 - Oct 2012</dt>
  <dd>Summer Job at Daimler AG, PKI Zerspanungstechnik GmbH, Kantwerg Isoliertechnik GmbH and Unilever GmbH in Mannheim (Germany)</dd>
 </dl>
@@ -105,6 +120,8 @@ Marko Bjelonic was born in Banja Luka, Yugoslavia. He received the B.S. and M.S.
 ## Talks, Presentations and Media Coverage
 
 <dl>
+  <dt>June 2021</dt>
+ <dd>Workshop on <a href='https://leggedrobots.put.poznan.pl/'>"Legged Robots"</a> at ICRA 2021, Xi' an, China</dd>
  <dt>Nov 2020</dt>
  <dd>Podcast about "Wheeled-legged Robots" by Marwa ElDiwiny featured at the Soft Robotic Podcast:
  <a href='https://soundcloud.com/ieeeras-softrobotics/marko-bjelonic-wheeled-legged-robots'>Soundcloud</a>,

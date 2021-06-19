@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Workshop at ICRA 2021 about Legged Robots"
+date:   2021-06-19 09:00:00 +0200
+categories: news
+---
+Due to the covid-19 pandemic, our [workshop on legged robots at ICRA 2021](hhttps://leggedrobots.put.poznan.pl/) was held online.
+You can find all talks of the workshop here:
+
+<div class="container">
+  <iframe src="https://www.youtube.com/embed/videoseries?list=PLY45TGWcpM7yXzVnjf96OD8gUX8VCIid3"
+  frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<div style="padding-top:10px"></div>
+
+Despite the challenge of having the workshop purely virtual, we managed to gather a large group of people.
