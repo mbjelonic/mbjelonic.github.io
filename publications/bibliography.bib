@@ -778,31 +778,36 @@
                Hutter, Marco},
   title     = {Whole-Body MPC and Online Gait Sequence Generation for
                Wheeled-Legged Robots},
-  journal   = {under review for IEEE Robotics and Automation Letters},
+  journal   = {IEEE/RSJ International Conference on Intelligent Robots and
+               Systems (IROS)},
   year      = {2021},
-  abstract  = {The additional degrees of freedom and missing counterparts in
-               nature make designing locomotion capabilities for wheeled-legged
-               robots more challenging. We propose a whole-body model
-               predictive controller as a single task formulation that
-               simultaneously optimizes wheel and torso motions. Due to the
-               real-time joint velocity and ground reaction force optimization
-               based on a kinodynamic model, our approach accurately captures
-               the real robot's dynamics and automatically discovers complex
-               and dynamic motions cumbersome to hand-craft through heuristics.
-               Thanks to the single set of parameters for all behaviors,
-               whole-body optimization makes online gait sequence adaptation
-               possible. Aperiodic gait sequences are automatically found
-               through kinematic leg utilities without the need for predefined
-               contact and lift-off timings. Also, this enables us to reduce
-               the cost of transport of wheeled-legged robots significantly.
-               Our experiments demonstrate highly dynamic motions on a
-               quadrupedal robot with non-steerable wheels in challenging
-               indoor and outdoor environments. Herewith, we verify that a
-               single task formulation is key to reveal the full potential of
-               wheeled-legged robots.},
+  abstract  = {Our paper proposes a model predictive controller as a single-task
+               formulation that simultaneously optimizes wheel and torso motions.
+               This online joint velocity and ground reaction force optimization
+               integrates a kinodynamic model of a wheeled quadrupedal robot.
+               It defines the single rigid body dynamics along with the robot's
+               kinematics while treating the wheels as moving ground contacts.
+               With this approach, we can accurately capture the robot's rolling
+               constraint and dynamics, enabling automatic discovery of hybrid
+               maneuvers without needless motion heuristics. The formulation's
+               generality through the simultaneous optimization over the robot's
+               whole-body variables allows for a single set of parameters and 
+               makes online gait sequence adaptation possible. Aperiodic gait
+               sequences are automatically found through kinematic leg utilities
+               without the need for predefined contact and lift-off timings,
+               reducing the cost of transport by up to 85%. Our experiments
+               demonstrate dynamic motions on a quadrupedal robot with non-steerable
+               wheels in challenging indoor and outdoor environments. The paper's
+               findings contribute to evaluating a decomposed, i.e., sequential
+               optimization of wheel and torso motion, and single-task motion planner
+               with a novel quantity, the prediction error, which describes how well a
+               receding horizon planner can predict the robot’s future state. To this end,
+               we report an improvement of up to 71% using our proposed
+               single-task approach, making fast locomotion feasible
+               and revealing wheeled-legged robots' full potential.},
   keywords  = {legged robots, wheeled robots,
                motion and path planning, optimization and optimal control},
-  url_pdf   = {files/2021_ral_bjelonic.pdf},
+  url_pdf   = {files/2021_iros_bjelonic.pdf},
   url_video = {https://youtu.be/_rPvKlvyw2w}
 }
 
@@ -870,7 +875,7 @@
                frame. Furthermore, a unified exploration path planning policy is presented
                to facilitate the autonomous operation of both legged and aerial robots in
                complex underground networks. Finally, to enable communication between the
-               robots and the base station, CERBERUS utilizes a ground rover with a high-gain 
+               robots and the base station, CERBERUS utilizes a ground rover with a high-gain
                antenna and an optical fiber connection to the base station, alongside breadcrumbing
                of wireless nodes by our legged robots. We report results from the CERBERUS
                system-of-systems deployment at the DARPA Subterranean Challenge Tunnel and Urban Circuits,

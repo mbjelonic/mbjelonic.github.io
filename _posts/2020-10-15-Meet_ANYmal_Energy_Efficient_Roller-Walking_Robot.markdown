@@ -6,7 +6,7 @@ categories: news
 ---
 
 We published the newest work of our roller-walking robot ANYmal and many news articles reported our achievements.
-You can find the paper [here](/publications/files/2021_ral_bjelonic.pdf) and the Video
+You can find the paper [here](/publications/files/2021_iros_bjelonic.pdf) and the Video
 is available on [YouTube](https://youtu.be/tf_twcbF4P4). You can find a list of press releases below.
 
 <div class="container">
